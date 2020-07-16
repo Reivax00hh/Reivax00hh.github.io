@@ -3,7 +3,7 @@
     "name": "SimulatedTT",
     "location_size": 35,
     "location_border_thickness": 5,
-    "img": "images/twilighttownmap.png"
+    "img": "images/simulatedmap.png"
   },
   {
     "name": "TwilightTown",
