@@ -2908,10 +2908,11 @@
             "color": "#09a09d",
             "children": [
               {
-                "name": "Haha As If Anyone Actually Plays With Atlantica Randomized KEKW",
+                "name": "Finny Fun",
                 "sections": [
                   {
-                    "item_count": 1
+                    "item_count": 6,
+                    "clear_as_group": false
                   }
                 ],
                 "map_locations": [
