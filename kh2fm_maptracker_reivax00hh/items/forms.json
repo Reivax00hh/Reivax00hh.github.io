@@ -1,0 +1,352 @@
+[
+  {
+    "name": "Valor Form",
+    "type": "progressive",
+    "loop": true,
+    "stages": [
+      {
+        "img": "images/valor.png",
+        "codes": "valorform1"
+      },
+      {
+        "img": "images/valor.png",
+        "img_mods": "overlay|images/two.png",
+        "codes": "valorform2"
+      },
+      {
+        "img": "images/valor.png",
+        "img_mods": "overlay|images/three.png",
+        "codes": "valorform3"
+      },
+      {
+        "img": "images/valor.png",
+        "img_mods": "overlay|images/four.png",
+        "codes": "valorform4"
+      },
+      {
+        "img": "images/valor.png",
+        "img_mods": "overlay|images/five.png",
+        "codes": "valorform5"
+      },
+      {
+        "img": "images/valor.png",
+        "img_mods": "overlay|images/six.png",
+        "codes": "valorform6"
+      },
+      {
+        "img": "images/valor.png",
+        "img_mods": "overlay|images/seven.png",
+        "codes": "valorform7"
+      }
+    ]
+  },
+  {
+    "name": "Auto Valor",
+    "type": "toggle_badged",
+    "base_item": "valorform1",
+    "img": "images/triangle.png",
+    "codes": "autovalor"
+  },
+  {
+    "name": "Wisdom Form",
+    "type": "progressive",
+    "loop": true,
+    "stages": [
+      {
+        "img": "images/wisdom.png",
+        "codes": "wisdomform1"
+      },
+      {
+        "img": "images/wisdom.png",
+        "img_mods": "overlay|images/two.png",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/wisdom.png",
+        "img_mods": "overlay|images/three.png",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/wisdom.png",
+        "img_mods": "overlay|images/four.png",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/wisdom.png",
+        "img_mods": "overlay|images/five.png",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/wisdom.png",
+        "img_mods": "overlay|images/six.png",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/wisdom.png",
+        "img_mods": "overlay|images/seven.png",
+        "inherit_codes": true
+      }
+    ]
+  },
+  {
+    "name": "Auto Wisdom",
+    "type": "toggle_badged",
+    "base_item": "wisdomform1",
+    "img": "images/triangle.png",
+    "codes": "autowisdom"
+  },
+  {
+    "name": "Limit Form",
+    "type": "progressive",
+    "loop": true,
+    "stages": [
+      {
+        "img": "images/limit.png",
+        "codes": "limitform1"
+      },
+      {
+        "img": "images/limit.png",
+        "img_mods": "overlay|images/two.png",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/limit.png",
+        "img_mods": "overlay|images/three.png",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/limit.png",
+        "img_mods": "overlay|images/four.png",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/limit.png",
+        "img_mods": "overlay|images/five.png",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/limit.png",
+        "img_mods": "overlay|images/six.png",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/limit.png",
+        "img_mods": "overlay|images/seven.png",
+        "inherit_codes": true
+      }
+    ]
+  },
+  {
+    "name": "Auto Limit",
+    "type": "toggle_badged",
+    "base_item": "limitform1",
+    "img": "images/triangle.png",
+    "codes": "autolimit"
+  },
+  {
+    "name": "Master Form",
+    "type": "progressive",
+    "loop": true,
+    "stages": [
+      {
+        "img": "images/master.png",
+        "codes": "masterform1"
+      },
+      {
+        "img": "images/master.png",
+        "img_mods": "overlay|images/two.png",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/master.png",
+        "img_mods": "overlay|images/three.png",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/master.png",
+        "img_mods": "overlay|images/four.png",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/master.png",
+        "img_mods": "overlay|images/five.png",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/master.png",
+        "img_mods": "overlay|images/six.png",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/master.png",
+        "img_mods": "overlay|images/seven.png",
+        "inherit_codes": true
+      }
+    ]
+  },
+  {
+    "name": "Auto Master",
+    "type": "toggle_badged",
+    "base_item": "masterform1",
+    "img": "images/triangle.png",
+    "codes": "automaster"
+  },
+  {
+    "name": "Final Form",
+    "type": "progressive",
+    "loop": true,
+    "stages": [
+      {
+        "img": "images/final.png",
+        "codes": "finalform1"
+      },
+      {
+        "img": "images/final.png",
+        "img_mods": "overlay|images/two.png",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/final.png",
+        "img_mods": "overlay|images/three.png",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/final.png",
+        "img_mods": "overlay|images/four.png",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/final.png",
+        "img_mods": "overlay|images/five.png",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/final.png",
+        "img_mods": "overlay|images/six.png",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/final.png",
+        "img_mods": "overlay|images/seven.png",
+        "inherit_codes": true
+      }
+    ]
+  },
+  {
+    "name": "Auto Final",
+    "type": "toggle_badged",
+    "base_item": "finalform1",
+    "img": "images/triangle.png",
+    "codes": "autofinal"
+  },
+  {
+    "name": "High Jump",
+    "type": "progressive",
+    "stages": [
+      {
+        "img": "images/valorform.png",
+        "codes": "valor1"
+      },
+      {
+        "img": "images/valorform.png",
+        "img_mods": "overlay|images/two.png"
+      },
+      {
+        "img": "images/valorform.png",
+        "img_mods": "overlay|images/three.png"
+      },
+      {
+        "img": "images/valorform.png",
+        "img_mods": "overlay|images/four.png"
+      }
+    ]
+  },
+  {
+    "name": "Quick Run",
+    "type": "progressive",
+    "stages": [
+      {
+        "img": "images/wisdomform.png",
+        "codes": "wisdom1"
+      },
+      {
+        "img": "images/wisdomform.png",
+        "img_mods": "overlay|images/two.png"
+      },
+      {
+        "img": "images/wisdomform.png",
+        "img_mods": "overlay|images/three.png"
+      },
+      {
+        "img": "images/wisdomform.png",
+        "img_mods": "overlay|images/four.png"
+      }
+    ]
+  },
+  {
+    "name": "Dodge Roll",
+    "type": "progressive",
+    "stages": [
+      {
+        "img": "images/limitform.png",
+        "codes": "limit1"
+      },
+      {
+        "img": "images/limitform.png",
+        "img_mods": "overlay|images/two.png"
+      },
+      {
+        "img": "images/limitform.png",
+        "img_mods": "overlay|images/three.png"
+      },
+      {
+        "img": "images/limitform.png",
+        "img_mods": "overlay|images/four.png"
+      }
+    ]
+  },
+  {
+    "name": "Aerial Dodge",
+    "type": "progressive",
+    "stages": [
+      {
+        "img": "images/masterform.png",
+        "codes": "master1"
+      },
+      {
+        "img": "images/masterform.png",
+        "img_mods": "overlay|images/two.png"
+      },
+      {
+        "img": "images/masterform.png",
+        "img_mods": "overlay|images/three.png"
+      },
+      {
+        "img": "images/masterform.png",
+        "img_mods": "overlay|images/four.png"
+      }
+    ]
+  },
+  {
+    "name": "Glide",
+    "type": "progressive",
+    "stages": [
+      {
+        "img": "images/finalform.png",
+        "codes": "final1"
+      },
+      {
+        "img": "images/finalform.png",
+        "img_mods": "overlay|images/two.png"
+      },
+      {
+        "img": "images/finalform.png",
+        "img_mods": "overlay|images/three.png"
+      },
+      {
+        "img": "images/finalform.png",
+        "img_mods": "overlay|images/four.png"
+      }
+    ]
+  }
+]

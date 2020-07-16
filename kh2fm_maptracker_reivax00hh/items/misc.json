@@ -1,0 +1,48 @@
+[
+  {
+    "name": "Cup Tourneys",
+    "type": "progressive",
+    "stages": [
+      {
+        "img": "images/cup.png",
+ 	"codes": "cup1"
+      },
+      {
+        "img": "images/cup.png",
+        "img_mods": "overlay|images/two.png"
+      },
+      {
+        "img": "images/cup.png",
+        "img_mods": "overlay|images/three.png"
+      },
+      {
+        "img": "images/cup.png",
+        "img_mods": "overlay|images/four.png"
+      }
+    ]
+  },
+  {
+    "name": "Promise Charm",
+    "type": "toggle",
+    "img": "images/promisecharm.png",
+    "codes": "promisecharm"
+  },
+  {
+    "name": "Proof of Nonexistence",
+    "type": "toggle",
+    "img": "images/non-existentproof.png",
+    "codes": "proofofnonexistence"
+  },
+  {
+    "name": "Proof of Connections",
+    "type": "toggle",
+    "img": "images/proofofconnections.png",
+    "codes": "proofofconnections"
+  },
+  {
+    "name": "Proof of Tranquility",
+    "type": "toggle",
+    "img": "images/tranquilproof.png",
+    "codes": "proofoftranquility"
+  }
+]

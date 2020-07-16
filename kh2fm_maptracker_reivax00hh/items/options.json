@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Absent Silhouettes",
+    "type": "toggle",
+    "img": "images/absent.png",
+    "codes": "setting_absent"
+  },
+  {
+    "name": "Data Org",
+    "type": "toggle",
+    "img": "images/non-existentproof.png",
+    "codes": "setting_dataorg"
+  },
+  {
+    "name": "Lingering Will",
+    "type": "toggle",
+    "img": "images/lingering.png",
+    "codes": "setting_lingering"
+  },
+  {
+    "name": "Sephiroth",
+    "type": "toggle",
+    "img": "images/sephiroth.png",
+    "codes": "setting_sephiroth"
+  }
+]

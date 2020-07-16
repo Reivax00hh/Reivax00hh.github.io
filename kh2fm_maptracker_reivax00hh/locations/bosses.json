@@ -1,0 +1,1143 @@
+[
+  {
+    "name": "Bosses",
+    "chest_unopened_img": "images/boss.png",
+    "chest_opened_img": "images/keyhole.png",
+    "children": [
+      //Simulated Twilight Town
+      {
+        "name": "Simulated Twilight Town",
+        "color": "#18a50e",
+        "children": [
+          {
+            "name": "STTBosses",
+            "color": "#09a09d",
+            "children": [
+              {
+                "name": "Twilight Thorn",
+                "sections": [
+                  {
+                    "chest_unopened_img": "images/nobody.png",
+                    "chest_opened_img": "images/keyhole.png",
+                    "hosted_item": "twilightthorn"
+                  }
+                ],
+                "map_locations": [
+                  {
+                    "map": "SimulatedTT",
+                    "x": 595,
+                    "y": 915
+                  }
+                ]
+              },
+              {
+                "name": "Axel #1",
+                "access_rules": [
+                  "twilightthorn"
+                ],
+                "sections": [
+                  {
+                    "chest_unopened_img": "images/axel.png",
+                    "chest_opened_img": "images/keyhole.png",
+                    "hosted_item": "axel1"
+                  }
+                ],
+                "map_locations": [
+                  {
+                    "map": "SimulatedTT",
+                    "x": 387,
+                    "y": 706
+                  }
+                ]
+              },
+              {
+                "name": "Axel #2",
+                "access_rules": [
+                  "axel1"
+                ],
+                "sections": [
+                  {
+                    "chest_unopened_img": "images/axel.png",
+                    "chest_opened_img": "images/keyhole.png",
+                    "hosted_item": "axel2"
+                  }
+                ],
+                "map_locations": [
+                  {
+                    "map": "SimulatedTT",
+                    "x": 1100,
+                    "y": 220
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      //Twilight Town
+      {
+        "name": "Twilight Town",
+        "color": "#18a50e",
+        "children": [
+          {
+            "name": "TTBosses",
+            "color": "#09a09d",
+            "children": [
+              {
+                "name": "Mob Fight #1",
+                "access_rules": [
+                  "twilighttown2"
+                ],
+                "sections": [
+                  {
+                    "chest_unopened_img": "images/nobody.png",
+                    "chest_opened_img": "images/keyhole.png",
+                    "hosted_item": "ttmobfight1"
+                  }
+                ],
+                "map_locations": [
+                  {
+                    "map": "TwilightTown",
+                    "x": 694,
+                    "y": 350
+                  }
+                ]
+              },
+              {
+                "name": "Mob Fight #2",
+                "access_rules": [
+                  "ttmobfight1"
+                ],
+                "sections": [
+                  {
+                    "chest_unopened_img": "images/nobody.png",
+                    "chest_opened_img": "images/keyhole.png",
+                    "hosted_item": "ttmobfight2"
+                  }
+                ],
+                "map_locations": [
+                  {
+                    "map": "TwilightTown",
+                    "x": 1327,
+                    "y": 237
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      //Hollow Bastion
+      {
+        "name": "Hollow Bastion",
+        "color": "#18a50e",
+        "children": [
+          {
+            "name": "HBBosses",
+            "color": "#09a09d",
+            "children": [
+              {
+                "name": "Bailey Fight",
+                "sections": [
+                  {
+                    "hosted_item": "hollowbastion1"
+                  }
+                ],
+                "map_locations": [
+                  {
+                    "map": "HollowBastion",
+                    "x": 146,
+                    "y": 1310
+                  }
+                ]
+              },
+              {
+                "name": "Use Computer",
+                "access_rules": [
+                  "hollowbastion1"
+                ],
+                "sections": [
+                  {
+                    "hosted_item": "hollowbastion2"
+                  }
+                ],
+                "map_locations": [
+                  {
+                    "map": "HollowBastion",
+                    "x": 594,
+                    "y": 441
+                  }
+                ]
+              },
+              {
+                "name": "Demyx",
+                "access_rules": [
+                  "hollowbastion2"
+                ],
+                "sections": [
+                  {
+                    "chest_unopened_img": "images/demyx.png",
+                    "chest_opened_img": "images/keyhole.png",
+                    "hosted_item": "demyxF"
+                  }
+                ],
+                "map_locations": [
+                  {
+                    "map": "HollowBastion",
+                    "x": 412,
+                    "y": 1515
+                  }
+                ]
+              },
+              {
+                "name": "1000 Heartless",
+                "access_rules": [
+                  "demyxF"
+                ],
+                "sections": [
+                  {
+                    "hosted_item": "hollowbastion3"
+                  }
+                ],
+                "map_locations": [
+                  {
+                    "map": "HollowBastion",
+                    "x": 192,
+                    "y": 2155
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      //Cavern of Remembrance
+      {
+        "name": "Cavern Of Remembrance",
+        "color": "#18a50e",
+        "children": [
+          {
+            "name": "STTBosses",
+            "color": "#09a09d",
+            "children": [
+              {
+                "name": "Final Mob Fight",
+                "sections": [
+                  {
+                    "chest_unopened_img": "images/nobody.png",
+                    "chest_opened_img": "images/keyhole.png",
+                    "hosted_item": "cave"
+                  }
+                ],
+                "map_locations": [
+                  {
+                    "map": "Cavern",
+                    "x": 220,
+                    "y": 570
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      //Space Paranoids
+      {
+        "name": "Space Paranoids",
+        "color": "#18a50e",
+        "children": [
+          {
+            "name": "SPBosses",
+            "color": "#09a09d",
+            "children": [
+              {
+                "name": "EXP Farm",
+                "sections": [
+                  {
+                    "hosted_item": "expfarm"
+                  }
+                ],
+                "map_locations": [
+                  {
+                    "map": "SpaceParanoids",
+                    "x": 350,
+                    "y": 562
+                  }
+                ]
+              },
+              {
+                "name": "Hostile Program",
+                "access_rules": [
+                  "expfarm"
+                ],
+                "sections": [
+                  {
+                    "hosted_item": "spaceparanoids1"
+                  }
+                ],
+                "map_locations": [
+                  {
+                    "map": "SpaceParanoids",
+                    "x": 216,
+                    "y": 447
+                  }
+                ]
+              },
+              {
+                "name": "Platform Fight",
+                "access_rules": [
+                  "spaceparanoids1"
+                ],
+                "sections": [
+                  {
+                    "hosted_item": "spaceplatformfight"
+                  }
+                ],
+                "map_locations": [
+                  {
+                    "map": "SpaceParanoids",
+                    "x": 135,
+                    "y": 270
+                  }
+                ]
+              },
+              {
+                "name": "Sark + MCP",
+                "access_rules": [
+                  "spaceplatformfight"
+                ],
+                "sections": [
+                  {
+                    "hosted_item": "spaceparanoids2"
+                  }
+                ],
+                "map_locations": [
+                  {
+                    "map": "SpaceParanoids",
+                    "x": 157,
+                    "y": 62
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      //The Land Of Dragons
+      {
+        "name": "The Land Of Dragons",
+        "color": "#18a50e",
+        "children": [
+          {
+            "name": "TLODBosses",
+            "color": "#09a09d",
+            "children": [
+              {
+                "name": "Cave Fight",
+                "sections": [
+                  {
+                    "hosted_item": "cavefight"
+                  }
+                ],
+                "map_locations": [
+                  {
+                    "map": "LandOfDragons",
+                    "x": 514,
+                    "y": 495
+                  }
+                ]
+              },
+              {
+                "name": "Shan-Yu",
+                "access_rules": [
+                  "cavefight"
+                ],
+                "sections": [
+                  {
+                    "hosted_item": "landofdragons1"
+                  }
+                ],
+                "map_locations": [
+                  {
+                    "map": "LandOfDragons",
+                    "x": 697,
+                    "y": 516
+                  }
+                ]
+              },
+              {
+                "name": "Storm Rider",
+                "access_rules": [
+                  "landofdragons1"
+                ],
+                "sections": [
+                  {
+                    "hosted_item": "landofdragons2"
+                  }
+                ],
+                "map_locations": [
+                  {
+                    "map": "LandOfDragons",
+                    "x": 697,
+                    "y": 675
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      //Beast's Castle
+      {
+        "name": "Beast's Castle",
+        "color": "#18a50e",
+        "children": [
+          {
+            "name": "BCBosses",
+            "color": "#09a09d",
+            "children": [
+              {
+                "name": "Possessor",
+                "sections": [
+                  {
+                    "hosted_item": "possessor"
+                  }
+                ],
+                "map_locations": [
+                  {
+                    "map": "BeastsCastle",
+                    "x": 87,
+                    "y": 290
+                  }
+                ]
+              },
+              {
+                "name": "Help Beast",
+                "access_rules": [
+                  "possessor"
+                ],
+                "sections": [
+                  {
+                    "hosted_item": "beast"
+                  }
+                ],
+                "map_locations": [
+                  {
+                    "map": "BeastsCastle",
+                    "x": 374,
+                    "y": 95
+                  }
+                ]
+              },
+              {
+                "name": "Dark Thorn",
+                "access_rules": [
+                  "beast"
+                ],
+                "sections": [
+                  {
+                    "hosted_item": "beastscastle1"
+                  }
+                ],
+                "map_locations": [
+                  {
+                    "map": "BeastsCastle",
+                    "x": 497,
+                    "y": 305
+                  }
+                ]
+              },
+              {
+                "name": "Xaldin",
+                "access_rules": [
+                  "beastscastle1"
+                ],
+                "sections": [
+                  {
+                    "chest_unopened_img": "images/xaldin.png",
+                    "chest_opened_img": "images/keyhole.png",
+                    "hosted_item": "beastscastle2"
+                  }
+                ],
+                "map_locations": [
+                  {
+                    "map": "BeastsCastle",
+                    "x": 497,
+                    "y": 676
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      //Olympus Coliseum
+      {
+        "name": "Olympus Coliseum",
+        "color": "#18a50e",
+        "children": [
+          {
+            "name": "OCBosses",
+            "color": "#09a09d",
+            "children": [
+              {
+                "name": "Cerberus",
+                "sections": [
+                  {
+                    "hosted_item": "cerberus"
+                  }
+                ],
+                "map_locations": [
+                  {
+                    "map": "Olympus",
+                    "x": 111,
+                    "y": 577
+                  }
+                ]
+              },
+              {
+                "name": "Break Pots!",
+                "access_rules": [
+                  "cerberus"
+                ],
+                "sections": [
+                  {
+                    "hosted_item": "breakpots"
+                  }
+                ],
+                "map_locations": [
+                  {
+                    "map": "Olympus",
+                    "x": 325,
+                    "y": 99
+                  }
+                ]
+              },
+              {
+                "name": "Dance Water Dance!",
+                "access_rules": [
+                  "breakpots"
+                ],
+                "sections": [
+                  {
+                    "chest_unopened_img": "images/demyx.png",
+                    "chest_opened_img": "images/keyhole.png",
+                    "hosted_item": "dancewaterdance"
+                  }
+                ],
+                "map_locations": [
+                  {
+                    "map": "Olympus",
+                    "x": 585,
+                    "y": 920
+                  }
+                ]
+              },
+              {
+                "name": "Fight Pete!",
+                "access_rules": [
+                  "dancewaterdance"
+                ],
+                "sections": [
+                  {
+                    "chest_unopened_img": "images/pete.png",
+                    "chest_opened_img": "images/keyhole.png",
+                    "hosted_item": "fightpetecol"
+                  }
+                ],
+                "map_locations": [
+                  {
+                    "map": "Olympus",
+                    "x": 588,
+                    "y": 1031
+                  }
+                ]
+              },
+              {
+                "name": "Hydra",
+                "access_rules": [
+                  "fightpetecol"
+                ],
+                "sections": [
+                  {
+                    "hosted_item": "olympus1"
+                  }
+                ],
+                "map_locations": [
+                  {
+                    "map": "Olympus",
+                    "x": 325,
+                    "y": 267
+                  }
+                ]
+              },
+              {
+                "name": "Hades",
+                "access_rules": [
+                  "olympus1"
+                ],
+                "sections": [
+                  {
+                    "hosted_item": "olympus2"
+                  }
+                ],
+                "map_locations": [
+                  {
+                    "map": "Olympus",
+                    "x": 209,
+                    "y": 525
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      //Disney Castle
+      {
+        "name": "Disney Castle",
+        "color": "#18a50e",
+        "children": [
+          {
+            "name": "DCBosses",
+            "color": "#09a09d",
+            "children": [
+              {
+                "name": "Minnie Escort",
+                "sections": [
+                  {
+                    "hosted_item": "disneycastle1"
+                  }
+                ],
+                "map_locations": [
+                  {
+                    "map": "DisneyCastle",
+                    "x": 237,
+                    "y": 237
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      //Timeless River
+      {
+        "name": "Timeless River",
+        "color": "#18a50e",
+        "children": [
+          {
+            "name": "TRBosses",
+            "color": "#09a09d",
+            "children": [
+              {
+                "name": "Stop Pete",
+                "sections": [
+                  {
+                    "chest_unopened_img": "images/pete.png",
+                    "chest_opened_img": "images/keyhole.png",
+                    "hosted_item": "stoppete"
+                  }
+                ],
+                "map_locations": [
+                  {
+                    "map": "TimelessRiver",
+                    "x": 300,
+                    "y": 253
+                  }
+                ]
+              },
+              {
+                "name": "Fight Pete",
+                "access_rules": [
+                  "stoppete"
+                ],
+                "sections": [
+                  {
+                    "hosted_item": "timelessriver1"
+                  }
+                ],
+                "map_locations": [
+                  {
+                    "map": "TimelessRiver",
+                    "x": 79,
+                    "y": 72
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      //Agrabah
+      {
+        "name": "Agrabah",
+        "color": "#18a50e",
+        "children": [
+          {
+            "name": "AGBosses",
+            "color": "#09a09d",
+            "children": [
+              {
+                "name": "Help Abu",
+                "sections": [
+                  {
+                    "hosted_item": "helpabu"
+                  }
+                ],
+                "map_locations": [
+                  {
+                    "map": "Agrabah",
+                    "x": 480,
+                    "y": 1138
+                  }
+                ]
+              },
+              {
+                "name": "Treasure Room Fight",
+                "access_rules": [
+                  "helpabu"
+                ],
+                "sections": [
+                  {
+                    "hosted_item": "treasurefight"
+                  }
+                ],
+                "map_locations": [
+                  {
+                    "map": "Agrabah",
+                    "x": 388,
+                    "y": 835
+                  }
+                ]
+              },
+              {
+                "name": "Volcanic/Blizzard Lords",
+                "access_rules": [
+                  "treasurefight"
+                ],
+                "sections": [
+                  {
+                    "hosted_item": "agrabah1"
+                  }
+                ],
+                "map_locations": [
+                  {
+                    "map": "Agrabah",
+                    "x": 700,
+                    "y": 120
+                  }
+                ]
+              },
+              {
+                "name": "Jafar",
+                "access_rules": [
+                  "agrabah1"
+                ],
+                "sections": [
+                  {
+                    "hosted_item": "agrabah2"
+                  }
+                ],
+                "map_locations": [
+                  {
+                    "map": "Agrabah",
+                    "x": 700,
+                    "y": 120
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      //Halloween Town
+      {
+        "name": "Halloween Town",
+        "color": "#18a50e",
+        "children": [
+          {
+            "name": "HTBosses",
+            "color": "#09a09d",
+            "children": [
+              {
+                "name": "Prison Keeper",
+                "sections": [
+                  {
+                    "hosted_item": "prisonkeeper"
+                  }
+                ],
+                "map_locations": [
+                  {
+                    "map": "HalloweenTown",
+                    "x": 200,
+                    "y": 410
+                  }
+                ]
+              },
+              {
+                "name": "Oogie Boogie",
+                "access_rules": [
+                  "prisonkeeper"
+                ],
+                "sections": [
+                  {
+                    "hosted_item": "halloweentown1"
+                  }
+                ],
+                "map_locations": [
+                  {
+                    "map": "HalloweenTown",
+                    "x": 100,
+                    "y": 1325
+                  }
+                ]
+              },
+              {
+                "name": "Lock, Shock, and Barrel",
+                "access_rules": [
+                  "halloweentown1"
+                ],
+                "sections": [
+                  {
+                    "hosted_item": "lsandb"
+                  }
+                ],
+                "map_locations": [
+                  {
+                    "map": "HalloweenTown",
+                    "x": 233,
+                    "y": 1140
+                  }
+                ]
+              },
+              {
+                "name": "The Experiment",
+                "access_rules": [
+                  "lsandb"
+                ],
+                "sections": [
+                  {
+                    "hosted_item": "halloweentown2"
+                  }
+                ],
+                "map_locations": [
+                  {
+                    "map": "HalloweenTown",
+                    "x": 495,
+                    "y": 940
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      //Port Royal
+      {
+        "name": "Port Royal",
+        "color": "#18a50e",
+        "children": [
+          {
+            "name": "PRBosses",
+            "color": "#09a09d",
+            "children": [
+              {
+                "name": "Ship Fight",
+                "sections": [
+                  {
+                    "hosted_item": "shipfight"
+                  }
+                ],
+                "map_locations": [
+                  {
+                    "map": "PortRoyal",
+                    "x": 510,
+                    "y": 890
+                  }
+                ]
+              },
+              {
+                "name": "Stop the Barrels",
+                "access_rules": [
+                  "shipfight"
+                ],
+                "sections": [
+                  {
+                    "hosted_item": "barrelfight"
+                  }
+                ],
+                "map_locations": [
+                  {
+                    "map": "PortRoyal",
+                    "x": 300,
+                    "y": 890
+                  }
+                ]
+              },
+              {
+                "name": "Barbosa",
+                "access_rules": [
+                  "barrelfight"
+                ],
+                "sections": [
+                  {
+                    "hosted_item": "portroyal1"
+                  }
+                ],
+                "map_locations": [
+                  {
+                    "map": "PortRoyal",
+                    "x": 560,
+                    "y": 60
+                  }
+                ]
+              },
+              {
+                "name": "Grim Reaper1",
+                "access_rules": [
+                  "portroyal1"
+                ],
+                "sections": [
+                  {
+                    "hosted_item": "grimreaper1"
+                  }
+                ],
+                "map_locations": [
+                  {
+                    "map": "PortRoyal",
+                    "x": 300,
+                    "y": 890
+                  }
+                ]
+              },
+              {
+                "name": "Grim Reaper2",
+                "access_rules": [
+                  "grimreaper1"
+                ],
+                "sections": [
+                  {
+                    "hosted_item": "portroyal2"
+                  }
+                ],
+                "map_locations": [
+                  {
+                    "map": "PortRoyal",
+                    "x": 455,
+                    "y": 1070
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      //Pride Lands
+      {
+        "name": "Pride Lands",
+        "color": "#18a50e",
+        "children": [
+          {
+            "name": "PLBosses",
+            "color": "#09a09d",
+            "children": [
+              {
+                "name": "Hyenas",
+                "sections": [
+                  {
+                    "hosted_item": "hyenafight"
+                  }
+                ],
+                "map_locations": [
+                  {
+                    "map": "PrideLands",
+                    "x": 525,
+                    "y": 225
+                  }
+                ]
+              },
+              {
+                "name": "Scar",
+                "access_rules": [
+                  "hyenafight"
+                ],
+                "sections": [
+                  {
+                    "hosted_item": "pridelands1"
+                  }
+                ],
+                "map_locations": [
+                  {
+                    "map": "PrideLands",
+                    "x": 455,
+                    "y": 90
+                  }
+                ]
+              },
+              {
+                "name": "Hyenas Again",
+                "access_rules": [
+                  "pridelands1"
+                ],
+                "sections": [
+                  {
+                    "hosted_item": "hyena2"
+                  }
+                ],
+                "map_locations": [
+                  {
+                    "map": "PrideLands",
+                    "x": 272,
+                    "y": 768
+                  }
+                ]
+              },
+              {
+                "name": "Groundshaker",
+                "access_rules": [
+                  "hyena2"
+                ],
+                "sections": [
+                  {
+                    "hosted_item": "pridelands2"
+                  }
+                ],
+                "map_locations": [
+                  {
+                    "map": "PrideLands",
+                    "x": 535,
+                    "y": 660
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      //The World That Never Was (City)
+      {
+        "name": "The World That Never Was (City)",
+        "color": "#18a50e",
+        "children": [
+          {
+            "name": "TWTNWCBosses",
+            "color": "#09a09d",
+            "children": [
+              {
+                "name": "Roxas",
+                "sections": [
+                  {
+                    "chest_unopened_img": "images/roxas.png",
+                    "chest_opened_img": "images/keyhole.png",
+                    "hosted_item": "roxasfight"
+                  }
+                ],
+                "map_locations": [
+                  {
+                    "map": "TWTNWCity",
+                    "x": 91,
+                    "y": 231
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      //The World That Never Was (Castle)
+      {
+        "name": "The World That Never Was (Castle)",
+        "color": "#18a50e",
+        "children": [
+          {
+            "name": "TWTNWCABosses",
+            "color": "#09a09d",
+            "children": [
+              {
+                "name": "Xigbar",
+                "access_rules": [
+                  "roxasfight"
+                ],
+                "sections": [
+                  {
+                    "chest_unopened_img": "images/xigbar.png",
+                    "chest_opened_img": "images/keyhole.png",
+                    "hosted_item": "xigbar"
+                  }
+                ],
+                "map_locations": [
+                  {
+                    "map": "TWTNWCastle",
+                    "x": 365,
+                    "y": 967
+                  }
+                ]
+              },
+              {
+                "name": "Luxord",
+                "access_rules": [
+                  "xigbar"
+                ],
+                "sections": [
+                  {
+                    "chest_unopened_img": "images/luxord.png",
+                    "chest_opened_img": "images/keyhole.png",
+                    "hosted_item": "luxord"
+                  }
+                ],
+                "map_locations": [
+                  {
+                    "map": "TWTNWCastle",
+                    "x": 145,
+                    "y": 737
+                  }
+                ]
+              },
+              {
+                "name": "Saix",
+                "access_rules": [
+                  "luxord"
+                ],
+                "sections": [
+                  {
+                    "chest_unopened_img": "images/saix.png",
+                    "chest_opened_img": "images/keyhole.png",
+                    "hosted_item": "saix"
+                  }
+                ],
+                "map_locations": [
+                  {
+                    "map": "TWTNWCastle",
+                    "x": 172,
+                    "y": 722
+                  }
+                ]
+              },
+              {
+                "name": "Xemnas",
+                "access_rules": [
+                  "saix"
+                ],
+                "sections": [
+                  {
+                    "chest_unopened_img": "images/xemnas.png",
+                    "chest_opened_img": "images/keyhole.png",
+                    "hosted_item": "twtnw1"
+                  }
+                ],
+                "map_locations": [
+                  {
+                    "map": "TWTNWCastle",
+                    "x": 151,
+                    "y": 141
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

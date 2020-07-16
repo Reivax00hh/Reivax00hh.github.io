@@ -1,0 +1,440 @@
+{
+  "tracker_right_map": {
+    "type": "container",
+    "background": "#212121",
+    "content": {
+      "type": "dock",
+      "dropshadow": true,
+      "content": [
+        {
+          "type": "dock",
+          "dock": "left",
+          "v_alignment": "stretch",
+          "margin": "0,0,3,0",
+          "content": [
+            {
+              "type": "group",
+              "header": "Stuff",
+              "dock": "top",
+              "header_content": {
+                "type": "button_popup",
+                "style": "settings",
+                "popup_background": "#FF212121",
+                "layout": "options_popup"
+              },
+              "content": {
+                "type": "layout",
+                "key": "item_grid_wide"
+              }
+            }
+          ]
+        },
+        {
+          "type": "dock",
+          "content": [
+            {
+              "type": "tabbed",
+              "dock": "top",
+              "tabs": [
+                {
+                  "title": "SimulatedTT",
+                  "icon": "images/roxasworld.png",
+                  "content": {
+                    "type": "map",
+                    "maps": [
+                      "SimulatedTT"
+                    ]
+                  }
+                },
+                {
+                  "title": "Twilight Town",
+                  "icon": "images/twilighttown.png",
+                  "content": {
+                    "type": "map",
+                    "maps": [
+                      "TwilightTown"
+                    ]
+                  }
+                },
+                {
+                  "title": "Hollow Bastion",
+                  "icon": "images/hollowbastion.png",
+                  "content": {
+                    "type": "map",
+                    "maps": [
+                      "HollowBastion"
+                    ]
+                  }
+                },
+                {
+                  "title": "CoR",
+                  "icon": "images/hollowbastion.png",
+                  "content": {
+                    "type": "map",
+                    "maps": [
+                      "Cavern"
+                    ]
+                  }
+                },
+                {
+                  "title": "Space Paranoids",
+                  "icon": "images/spaceparanoids.png",
+                  "content": {
+                    "type": "map",
+                    "maps": [
+                      "SpaceParanoids"
+                    ]
+                  }
+                },
+                {
+                  "title": "100 Acre Wood",
+                  "icon": "images/acrewood.png",
+                  "content": {
+                    "type": "map",
+                    "maps": [
+                      "AcreWood"
+                    ]
+                  }
+                },
+                {
+                  "title": "Land of Dragons",
+                  "icon": "images/landofdragons.png",
+                  "content": {
+                    "type": "map",
+                    "maps": [
+                      "LandOfDragons"
+                    ]
+                  }
+                },
+                {
+                  "title": "Beast's Castle",
+                  "icon": "images/beastscastle.png",
+                  "content": {
+                    "type": "map",
+                    "maps": [
+                      "BeastsCastle"
+                    ]
+                  }
+                },
+                {
+                  "title": "Olympus Coliseum",
+                  "icon": "images/olympus.png",
+                  "content": {
+                    "type": "map",
+                    "maps": [
+                      "Olympus"
+                    ]
+                  }
+                },
+                {
+                  "title": "Disney Castle",
+                  "icon": "images/disneycastle.png",
+                  "content": {
+                    "type": "map",
+                    "maps": [
+                      "DisneyCastle"
+                    ]
+                  }
+                },
+                {
+                  "title": "Timeless River",
+                  "icon": "images/timelessriver.png",
+                  "content": {
+                    "type": "map",
+                    "maps": [
+                      "TimelessRiver"
+                    ]
+                  }
+                },
+                {
+                  "title": "Atlantica",
+                  "icon": "images/atlantica.png",
+                  "content": {
+                    "type": "map",
+                    "maps": [
+                      "Atlantica"
+                    ]
+                  }
+                },
+                {
+                  "title": "Agrabah",
+                  "icon": "images/agrabah.png",
+                  "content": {
+                    "type": "map",
+                    "maps": [
+                      "Agrabah"
+                    ]
+                  }
+                },
+                {
+                  "title": "Halloween Town",
+                  "icon": "images/halloweentown.png",
+                  "content": {
+                    "type": "map",
+                    "maps": [
+                      "HalloweenTown"
+                    ]
+                  }
+                },
+                {
+                  "title": "Port Royal",
+                  "icon": "images/portroyal.png",
+                  "content": {
+                    "type": "map",
+                    "maps": [
+                      "PortRoyal"
+                    ]
+                  }
+                },
+                {
+                  "title": "Pride Lands",
+                  "icon": "images/pridelands.png",
+                  "content": {
+                    "type": "map",
+                    "maps": [
+                      "PrideLands"
+                    ]
+                  }
+                },
+                {
+                  "title": "TWTNW (City)",
+                  "icon": "images/twtnw.png",
+                  "content": {
+                    "type": "map",
+                    "maps": [
+                      "TWTNWCity"
+                    ]
+                  }
+                },
+                {
+                  "title": "TWTNW (Castle)",
+                  "icon": "images/twtnw.png",
+                  "content": {
+                    "type": "map",
+                    "maps": [
+                      "TWTNWCastle"
+                    ]
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "tracker_top_map": {
+    "type": "container",
+    "background": "#212121",
+    "content": {
+      "type": "dock",
+      "dropshadow": true,
+      "content": [
+        {
+          "type": "dock",
+          "dock": "bottom",
+          "content": [
+            {
+              "type": "dock",
+              "dock": "left",
+              "margin": "0,0,3,0",
+              "content": [
+                {
+                  "type": "group",
+                  "header": "Items",
+                  "dock": "top",
+                  "header_content": {
+                    "type": "button_popup",
+                    "style": "settings",
+                    "popup_background": "#FF212121",
+                    "layout": "options_popup"
+                  },
+                  "content": {
+                    "type": "layout",
+                    "key": "item_grid_wide"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "tabbed",
+          "dock": "top",
+          "tabs": [
+            {
+              "title": "SimulatedTT",
+              "icon": "images/roxasworld.png",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "SimulatedTT"
+                ]
+              }
+            },
+            {
+              "title": "Twilight Town",
+              "icon": "images/twilighttown.png",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "TwilightTown"
+                ]
+              }
+            },
+                {
+                  "title": "Hollow Bastion",
+                  "icon": "images/hollowbastion.png",
+                  "content": {
+                    "type": "map",
+                    "maps": [
+                      "HollowBastion"
+                    ]
+                  }
+                },
+                {
+                  "title": "CoR",
+                  "icon": "images/hollowbastion.png",
+                  "content": {
+                    "type": "map",
+                    "maps": [
+                      "Cavern"
+                    ]
+                  }
+                },
+                {
+                  "title": "Space Paranoids",
+                  "icon": "images/spaceparanoids.png",
+                  "content": {
+                    "type": "map",
+                    "maps": [
+                      "SpaceParanoids"
+                    ]
+                  }
+                },
+                {
+                  "title": "100 Acre Wood",
+                  "icon": "images/acrewood.png",
+                  "content": {
+                    "type": "map",
+                    "maps": [
+                      "AcreWood"
+                    ]
+                  }
+                },
+                {
+                  "title": "Land of Dragons",
+                  "icon": "images/landofdragons.png",
+                  "content": {
+                    "type": "map",
+                    "maps": [
+                      "LandOfDragons"
+                    ]
+                  }
+                },
+                {
+                  "title": "Beast's Castle",
+                  "icon": "images/beastscastle.png",
+                  "content": {
+                    "type": "map",
+                    "maps": [
+                      "BeastsCastle"
+                    ]
+                  }
+                },
+                {
+                  "title": "Olympus Coliseum",
+                  "icon": "images/olympus.png",
+                  "content": {
+                    "type": "map",
+                    "maps": [
+                      "Olympus"
+                    ]
+                  }
+                },
+                {
+                  "title": "Disney Castle",
+                  "icon": "images/disneycastle.png",
+                  "content": {
+                    "type": "map",
+                    "maps": [
+                      "DisneyCastle"
+                    ]
+                  }
+                },
+                {
+                  "title": "Timeless River",
+                  "icon": "images/timelessriver.png",
+                  "content": {
+                    "type": "map",
+                    "maps": [
+                      "TimelessRiver"
+                    ]
+                  }
+                },
+                {
+                  "title": "Agrabah",
+                  "icon": "images/agrabah.png",
+                  "content": {
+                    "type": "map",
+                    "maps": [
+                      "Agrabah"
+                    ]
+                  }
+                },
+                {
+                  "title": "Halloween Town",
+                  "icon": "images/halloweentown.png",
+                  "content": {
+                    "type": "map",
+                    "maps": [
+                      "HalloweenTown"
+                    ]
+                  }
+                },
+                {
+                  "title": "Port Royal",
+                  "icon": "images/portroyal.png",
+                  "content": {
+                    "type": "map",
+                    "maps": [
+                      "PortRoyal"
+                    ]
+                  }
+                },
+                {
+                  "title": "Pride Lands",
+                  "icon": "images/pridelands.png",
+                  "content": {
+                    "type": "map",
+                    "maps": [
+                      "PrideLands"
+                    ]
+                  }
+                },
+                {
+                  "title": "TWTNW (City)",
+                  "icon": "images/twtnw.png",
+                  "content": {
+                    "type": "map",
+                    "maps": [
+                      "TWTNWCity"
+                    ]
+                  }
+                },
+                {
+                  "title": "TWTNW (Castle)",
+                  "icon": "images/twtnw.png",
+                  "content": {
+                    "type": "map",
+                    "maps": [
+                      "TWTNWCastle"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

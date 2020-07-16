@@ -1,0 +1,195 @@
+[
+//Simulated Twilight Town
+  {
+    "name": "Twilight Thorn",
+    "type": "toggle",
+    "img": "images/nobody.png",
+    "codes": "twilightthorn"
+  },
+  {
+    "name": "Axel #1",
+    "type": "toggle",
+    "img": "images/axel.png",
+    "codes": "axel1"
+  },
+  {
+    "name": "Axel #2",
+    "type": "toggle",
+    "img": "images/axel.png",
+    "codes": "axel2"
+  },
+//Twilight Town
+  {
+    "name": "TTMob Fight #1",
+    "type": "toggle",
+    "img": "images/nobody.png",
+    "codes": "ttmobfight1"
+  },
+  {
+    "name": "TTMob Fight #2",
+    "type": "toggle",
+    "img": "images/nobody.png",
+    "codes": "ttmobfight2"
+  },
+//Hollow Bastion
+  {
+    "name": "Demyx",
+    "type": "toggle",
+    "img": "images/demyx.png",
+    "codes": "demyxF"
+  },
+//Space Paranoids
+  {
+    "name": "EXP Farm",
+    "type": "toggle",
+    "img": "images/boss.png",
+    "codes": "expfarm"
+  },
+  {
+    "name": "Platform Fight",
+    "type": "toggle",
+    "img": "images/boss.png",
+    "codes": "spaceplatformfight"
+  },
+//Land of Dragons
+  {
+    "name": "Cave Fight",
+    "type": "toggle",
+    "img": "images/boss.png",
+    "codes": "cavefight"
+  },
+ //Beast's Castle
+  {
+    "name": "Possessor",
+    "type": "toggle",
+    "img": "images/boss.png",
+    "codes": "possessor"
+  },
+  {
+    "name": "Help Beast",
+    "type": "toggle",
+    "img": "images/boss.png",
+    "codes": "beast"
+  },
+//Olympus Coliseum
+  {
+    "name": "Cerberus",
+    "type": "toggle",
+    "img": "images/boss.png",
+    "codes": "cerberus"
+  },
+  {
+    "name": "Break Pots!",
+    "type": "toggle",
+    "img": "images/boss.png",
+    "codes": "breakpots"
+  },
+  {
+    "name": "Dance Water Dance!",
+    "type": "toggle",
+    "img": "images/demyx.png",
+    "codes": "dancewaterdance"
+  },
+  {
+    "name": "Fight Pete!",
+    "type": "toggle",
+    "img": "images/pete.png",
+    "codes": "fightpetecol"
+  },
+//Timeless River
+  {
+    "name": "Stop Pete",
+    "type": "toggle",
+    "img": "images/pete.png",
+    "codes": "stoppete"
+  },
+  {
+    "name": "Fight Pete",
+    "type": "toggle",
+    "img": "images/pete.png",
+    "codes": "fightpete"
+  },
+//Port Royal
+  {
+    "name": "Ship Fight",
+    "type": "toggle",
+    "img": "images/boss.png",
+    "codes": "shipfight"
+  },
+  {
+    "name": "Stop The Barrels",
+    "type": "toggle",
+    "img": "images/boss.png",
+    "codes": "barrelfight"
+  },
+  {
+    "name": "Grim Reaper #1",
+    "type": "toggle",
+    "img": "images/boss.png",
+    "codes": "grimreaper1"
+  },
+//Agrabah
+  {
+    "name": "Help Abu",
+    "type": "toggle",
+    "img": "images/boss.png",
+    "codes": "helpabu"
+  },
+  {
+    "name": "Treasure Room Fight",
+    "type": "toggle",
+    "img": "images/boss.png",
+    "codes": "treasurefight"
+  }, 
+//Halloween Town
+  {
+    "name": "Prison Keeper",
+    "type": "toggle",
+    "img": "images/boss.png",
+    "codes": "prisonkeeper"
+  }, 
+  {
+    "name": "LockShockAndBarrel",
+    "type": "toggle",
+    "img": "images/boss.png",
+    "codes": "lsandb"
+  }, 
+//Pride Lands
+  {
+    "name": "Hyenas",
+    "type": "toggle",
+    "img": "images/boss.png",
+    "codes": "hyenafight"
+  }, 
+  {
+    "name": "Hyenas again",
+    "type": "toggle",
+    "img": "images/boss.png",
+    "codes": "hyena2"
+  }, 
+//The World That Never Was
+  {
+    "name": "Roxas",
+    "type": "toggle",
+    "img": "images/roxas.png",
+    "codes": "roxasfight"
+  }, 
+  {
+    "name": "Xigbar",
+    "type": "toggle",
+    "img": "images/xigbar.png",
+    "codes": "xigbar"
+  }, 
+  {
+    "name": "Luxord",
+    "type": "toggle",
+    "img": "images/luxord.png",
+    "codes": "luxord"
+  }, 
+  {
+    "name": "Saix",
+    "type": "toggle",
+    "img": "images/saix.png",
+    "codes": "saix"
+  }
+]

@@ -1,0 +1,25 @@
+{
+  "name": "Trackers by Reivax00hh",
+  "packages": [
+    {
+      "name": "KH2FM GOA Randomizer Map Tracker",
+      "game_name": "Kingdom Hearts II Final Mix GOA Randomizer",
+      "author": "Reivax00hh",
+      "version": "1.0",
+      "uid": "kh2fm_maptracker_reivax00hh",
+      "link": "https://Reivax00hh.github.io/EmotrackerPacks/kh2fm_maptracker_reivax00hh.zip",
+      "documentation_url": "https://github.com/Reivax00hh/EmotrackerPacks/blob/master/kh2fm_maptracker_reivax00hh/README.md",
+      "variants": [
+        {
+          "name": "Map Tracker",
+          "flags": [
+            "map"
+          ]
+        },
+        {
+          "name": "Item's Only"
+        }
+      ]
+    }
+  ]
+}

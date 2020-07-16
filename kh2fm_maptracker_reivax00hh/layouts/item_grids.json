@@ -1,0 +1,134 @@
+{
+  "item_grid_tall": {
+    "type": "array",
+    "orientation": "vertical",
+    "content": [
+      {
+        "type": "itemgrid",
+        "h_alignment": "left",
+        "item_margin": "1,2",
+	      "item_size": 50,
+        "rows": [
+          [
+	    "roxas",
+            "twilighttown1",
+            "hollowsephi",
+            "spaceparanoids1",
+            "acrewood1",
+	    "landofdragons1"
+          ],
+          [
+            "beastscastle1",
+            "olympus1",
+            "disneylinger",
+            "timelessriver1",           
+	    "atlantica1",
+            "agrabah1"
+          ],
+          [
+            "halloweentown1",
+            "portroyal1",
+            "pridelands1",
+            "twtnw1",
+            "autovalor",
+            "wisdomform1"
+          ],
+          [
+            "limitform1",
+            "masterform1",
+            "finalform1",
+            "fire1",
+            "blizzard1",
+            "thunder1"
+          ],
+	  [
+            "cure1",
+            "reflect1",
+            "magnet1",
+            "chickenlittle",
+            "genie",
+            "stitch"
+	  ],
+	  [
+            "peterpan",
+            "cup1",
+            "promisecharm",
+            "proofofnonexistence",
+            "proofofconnections",
+            "proofoftranquility"
+	  ]
+        ]
+      }
+    ]
+  },
+  "item_grid_wide": {
+    "type": "array",
+    "orientation": "vertical",
+    "content": [
+      {
+        "type": "itemgrid",
+        "h_alignment": "left",
+        "item_margin": "1,2",
+	"item_size": 60,
+        "rows": [
+          [
+            "roxas",
+            "twilighttown1",
+            "hollowsephi",
+            "cave",
+            "spaceparanoids1",
+            "acrewood1"
+          ],
+          [
+            "landofdragons1",
+            "beastscastle1",
+            "olympus1",
+            "disneylinger",
+            "timelessriver1",
+            "atlantica1"
+          ],
+          [
+            "agrabah1",
+            "halloweentown1",
+            "portroyal1",
+            "pridelands1",
+            "twtnw1",
+            "cup1"
+          ],
+          [
+            "fire1",
+            "blizzard1",
+            "thunder1",
+            "cure1",
+            "reflect1",
+            "magnet1"
+          ],
+          [
+            "autovalor",
+            "autowisdom",
+            "autolimit",
+            "automaster",
+            "autofinal",           
+            "proofofnonexistence"
+          ],
+          [
+            "valor1",
+            "wisdom1",
+            "limit1",
+            "master1",
+            "final1",
+            "proofofconnections"
+          ],
+          [
+            "genie",
+            "stitch",
+            "chickenlittle",
+            "peterpan",
+            "promisecharm",
+            "proofoftranquility"
+          ]
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,259 @@
+[
+  {
+    "name": "Special Bosses",
+    "children": [
+      //Halloween Town
+      {
+        "name": "Halloween Town",
+        "color": "#18a50e",
+        "children": [
+          {
+            "name": "HTSpecial",
+            "color": "#09a09d",
+            "children": [
+              {
+                "name": "Vexen Absent",
+                "access_rules": [
+                  "setting_absent"
+                ],
+                "sections": [
+                  {
+                    "chest_unopened_img": "images/vexen.png",
+                    "chest_opened_img": "images/keyhole.png",
+                    "item_count": 1
+                  }
+                ],
+                "map_locations": [
+                  {
+                    "map": "HalloweenTown",
+                    "x": 200,
+                    "y": 1152
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      //Cavern of Remembrance
+      {
+        "name": "Cavern Of Remembrance",
+        "color": "#18a50e",
+        "children": [
+          {
+            "name": "STTSpecial",
+            "color": "#09a09d",
+            "children": [
+              {
+                "name": "Data Org",
+                "access_rules": [
+                  "setting_dataorg"
+                ],
+                "sections": [
+                  {
+                    "chest_unopened_img": "images/nobody.png",
+                    "chest_opened_img": "images/keyhole.png",
+                    "clear_as_group": false,
+                    "item_count": 13
+                  }
+                ],
+                "map_locations": [
+                  {
+                    "map": "Cavern",
+                    "x": 100,
+                    "y": 552
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      //Hollow Bastion
+      {
+        "name": "Hollow Bastion",
+        "color": "#18a50e",
+        "children": [
+          {
+            "name": "HBSpecial",
+            "color": "#09a09d",
+            "children": [
+              {
+                "name": "Sephiroth",
+                "access_rules": [
+                  "setting_sephiroth"
+                ],
+                "sections": [
+                  {
+                    "chest_unopened_img": "images/sephiroth.png",
+                    "chest_opened_img": "images/keyhole.png",
+                    "item_count": 1
+                  }
+                ],
+                "map_locations": [
+                  {
+                    "map": "HollowBastion",
+                    "x": 320,
+                    "y": 2415
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      //Olympus Coliseum
+      {
+        "name": "Olympus Coliseum",
+        "color": "#18a50e",
+        "children": [
+          {
+            "name": "OCSpecial",
+            "color": "#09a09d",
+            "children": [
+              {
+                "name": "Zexion Absent",
+                "access_rules": [
+                  "setting_absent"
+                ],
+                "sections": [
+                  {
+                    "chest_unopened_img": "images/zexion.png",
+                    "chest_opened_img": "images/keyhole.png",
+                    "item_count": 1
+                  }
+                ],
+                "map_locations": [
+                  {
+                    "map": "Olympus",
+                    "x": 80,
+                    "y": 980
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      //Disney Castle
+      {
+        "name": "Disney Castle",
+        "color": "#18a50e",
+        "children": [
+          {
+            "name": "DCSpecial",
+            "color": "#09a09d",
+            "children": [
+              {
+                "name": "Lingering Will",
+                "access_rules": [
+                  "setting_lingering"
+                ],
+                "sections": [
+                  {
+                    "chest_unopened_img": "images/lingering.png",
+                    "chest_opened_img": "images/keyhole.png",
+                    "item_count": 1
+                  }
+                ],
+                "map_locations": [
+                  {
+                    "map": "DisneyCastle",
+                    "x": 237,
+                    "y": 106
+                  }
+                ]
+              },
+              {
+                "name": "Marluxia Absent",
+                "access_rules": [
+                  "setting_absent"
+                ],
+                "sections": [
+                  {
+                    "chest_unopened_img": "images/absent.png",
+                    "chest_opened_img": "images/keyhole.png",
+                    "item_count": 1
+                  }
+                ],
+                "map_locations": [
+                  {
+                    "map": "DisneyCastle",
+                    "x": 204,
+                    "y": 130
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      //Agrabah
+      {
+        "name": "Agrabah",
+        "color": "#18a50e",
+        "children": [
+          {
+            "name": "AGSpecial",
+            "color": "#09a09d",
+            "children": [
+              {
+                "name": "Lexaeus Absent",
+                "access_rules": [
+                  "setting_absent"
+                ],
+                "sections": [
+                  {
+                    "chest_unopened_img": "images/lexaeus.png",
+                    "chest_opened_img": "images/keyhole.png",
+                    "item_count": 1
+                  }
+                ],
+                "map_locations": [
+                  {
+                    "map": "Agrabah",
+                    "x": 830,
+                    "y": 235
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      //Port Royal
+      {
+        "name": "Port Royal",
+        "color": "#18a50e",
+        "children": [
+          {
+            "name": "PRBosses",
+            "color": "#09a09d",
+            "children": [
+              {
+                "name": "Larxene Absent",
+                "access_rules": [
+                  "setting_absent"
+                ],
+                "sections": [
+                  {
+                    "chest_unopened_img": "images/larxene.png",
+                    "chest_opened_img": "images/keyhole.png",
+                    "item_count": 1
+                  }
+                ],
+                "map_locations": [
+                  {
+                    "map": "PortRoyal",
+                    "x": 585,
+                    "y": 640
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

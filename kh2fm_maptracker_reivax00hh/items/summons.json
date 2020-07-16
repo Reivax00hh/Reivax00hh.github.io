@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Chicken Little",
+    "type": "toggle",
+    "img": "images/baseball.png",
+    "codes": "chickenlittle"
+  },
+  {
+    "name": "Genie",
+    "type": "toggle",
+    "img": "images/lamp.png",
+    "codes": "genie"
+  },
+  {
+    "name": "Stitch",
+    "type": "toggle",
+    "img": "images/ukelele.png",
+    "codes": "stitch"
+  },
+  {
+    "name": "Peter Pan",
+    "type": "toggle",
+    "img": "images/feather.png",
+    "codes": "peterpan"
+  }
+]

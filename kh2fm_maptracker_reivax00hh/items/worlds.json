@@ -1,0 +1,273 @@
+[
+  {
+    "name": "Simulated Twilight Town",
+    "type": "toggle",
+    "img": "images/roxasworld.png",
+    "codes": "roxas"
+  },
+  {
+    "name": "Twilight Town",
+    "type": "progressive",
+    "stages": [
+      {
+        "img": "images/twilighttown.png",
+        "codes": "twilighttown1"
+      },
+      {
+        "img": "images/twilighttown.png",
+        "img_mods": "overlay|images/two.png",
+        "codes": "twilighttown2"
+      },
+      {
+        "img": "images/twilighttown.png",
+        "img_mods": "overlay|images/three.png",
+		"codes": "twilighttown3"
+      }
+    ]
+  },
+  {
+    "name": "Hollow Bastion",
+    "type": "progressive",
+    "loop": true,
+    "stages": [
+      {
+        "img": "images/hollowbastion.png",
+        "codes": "hollowbastion1"
+      },
+      {
+        "img": "images/hollowbastion.png",
+        "img_mods": "overlay|images/two.png",
+        "codes": "hollowbastion2"
+      },
+      {
+        "img": "images/hollowbastion.png",
+        "img_mods": "overlay|images/three.png",
+        "codes": "hollowbastion3"
+      }
+    ]
+  },
+  {
+    "name": "Hollow Sephi",
+    "type": "toggle_badged",
+    "base_item": "hollowbastion1",
+    "img": "images/sephiroth.png",
+    "codes": "hollowsephi"
+  },
+  {
+    "name": "Cavern of Remembrance",
+    "type": "toggle",
+    "img": "images/CoR.png",
+    "codes": "cave"
+  },
+  {
+    "name": "Space Paranoids",
+    "type": "progressive",
+    "stages": [
+      {
+        "img": "images/spaceparanoids.png",
+        "codes": "spaceparanoids1"
+      },
+      {
+        "img": "images/spaceparanoids.png",
+        "img_mods": "overlay|images/two.png",
+        "codes": "spaceparanoids2"
+      }
+    ]
+  },
+  {
+    "name": "100 Acre Wood",
+    "type": "progressive",
+    "stages": [
+      {
+        "img": "images/acrewood.png",
+        "codes": "acrewood1"
+      },
+      {
+        "img": "images/acrewood.png",
+        "img_mods": "overlay|images/two.png",
+        "codes": "acrewood2"
+      },
+      {
+        "img": "images/acrewood.png",
+        "img_mods": "overlay|images/three.png",
+        "codes": "acrewood3"
+      },
+      {
+        "img": "images/acrewood.png",
+        "img_mods": "overlay|images/four.png",
+        "codes": "acrewood4"
+      },
+      {
+        "img": "images/acrewood.png",
+        "img_mods": "overlay|images/five.png",
+        "codes": "acrewood5"
+      },
+      {
+        "img": "images/acrewood.png",
+        "img_mods": "overlay|images/six.png",
+        "codes": "acrewood6"
+      }
+    ]
+  },
+  {
+    "name": "The Land Of Dragons",
+    "type": "progressive",
+    "stages": [
+      {
+        "img": "images/landofdragons.png",
+        "codes": "landofdragons1"
+      },
+      {
+        "img": "images/landofdragons.png",
+        "img_mods": "overlay|images/two.png",
+        "codes": "landofdragons2"
+      }
+    ]
+  },
+  {
+    "name": "Beast's Castle",
+    "type": "progressive",
+    "stages": [
+      {
+        "img": "images/beastscastle.png",
+        "codes": "beastscastle1"
+      },
+      {
+        "img": "images/beastscastle.png",
+        "img_mods": "overlay|images/two.png",
+        "codes": "beastscastle2"
+      }
+    ]
+  },
+  {
+    "name": "Olympus Coliseum",
+    "type": "progressive",
+    "stages": [
+      {
+        "img": "images/olympus.png",
+        "codes": "olympus1"
+      },
+      {
+        "img": "images/olympus.png",
+        "img_mods": "overlay|images/two.png",
+        "codes": "olympus2"
+      }
+    ]
+  },
+  {
+    "name": "Disney Castle",
+    "type": "toggle",
+    "loop": true,
+    "img": "images/disneycastle.png",
+    "codes": "disneycastle1"
+  },
+  {
+    "name": "Disney Castle w/ lingering",
+    "type": "toggle_badged",
+    "base_item": "disneycastle1",
+    "img": "images/lingering.png",
+    "codes": "disneylinger"
+  },
+  {
+    "name": "Timeless River",
+    "type": "toggle",
+    "img": "images/timelessriver.png",
+    "codes": "timelessriver1"
+  },
+  {
+    "name": "Atlantica",
+    "type": "progressive",
+    "stages": [
+      {
+        "img": "images/atlantica.png",
+        "codes": "atlantica1"
+      },
+      {
+        "img": "images/atlantica.png",
+        "img_mods": "overlay|images/two.png",
+        "codes": "atlantica2"
+      },
+      {
+        "img": "images/atlantica.png",
+        "img_mods": "overlay|images/three.png",
+        "codes": "atlantica3"
+      },
+      {
+        "img": "images/atlantica.png",
+        "img_mods": "overlay|images/four.png",
+        "codes": "atlantica4"
+      },
+      {
+        "img": "images/atlantica.png",
+        "img_mods": "overlay|images/five.png",
+        "codes": "atlantica5"
+      }
+    ]
+  },
+  {
+    "name": "Agrabah",
+    "type": "progressive",
+    "stages": [
+      {
+        "img": "images/agrabah.png",
+        "codes": "agrabah1"
+      },
+      {
+        "img": "images/agrabah.png",
+        "img_mods": "overlay|images/two.png",
+        "codes": "agrabah2"
+      }
+    ]
+  },
+  {
+    "name": "Halloween Town",
+    "type": "progressive",
+    "stages": [
+      {
+        "img": "images/halloweentown.png",
+        "codes": "halloweentown1"
+      },
+      {
+        "img": "images/halloweentown.png",
+        "img_mods": "overlay|images/two.png",
+        "codes": "halloweentown2"
+      }
+    ]
+  },
+  {
+    "name": "Port Royal",
+    "type": "progressive",
+    "stages": [
+      {
+        "img": "images/portroyal.png",
+        "codes": "portroyal1"
+      },
+      {
+        "img": "images/portroyal.png",
+        "img_mods": "overlay|images/two.png",
+        "codes": "portroyal"
+      }
+    ]
+  },
+  {
+    "name": "Pride Lands",
+    "type": "progressive",
+    "stages": [
+      {
+        "img": "images/pridelands.png",
+        "codes": "pridelands1"
+      },
+      {
+        "img": "images/pridelands.png",
+        "img_mods": "overlay|images/two.png",
+        "codes": "pridelands2"
+      }
+    ]
+  },
+  {
+    "name": "The World That Never Was",
+    "type": "toggle",
+    "img": "images/twtnw.png",
+    "codes": "twtnw1"
+  }
+]
