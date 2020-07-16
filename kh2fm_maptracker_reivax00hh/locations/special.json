@@ -2,6 +2,59 @@
   {
     "name": "Special Bosses",
     "children": [
+      //SimulatedTT
+      {
+        "name": "Simulated TT",
+        "color": "#18a50e",
+        "children": [
+          {
+            "name": "STTSpecial",
+            "color": "#09a09d",
+            "children": [
+              {
+                "name": "Data Roxas",
+                "access_rules": [
+                  "setting_dataorg"
+                ],
+                "sections": [
+                  {
+                    "chest_unopened_img": "images/roxas.png",
+                    "chest_opened_img": "images/keyhole.png",
+                    "item_count": 1
+                  }
+                ],
+                "map_locations": [
+                  {
+                    "map": "SimulatedTT",
+                    "x": 995,
+                    "y": 165
+                  }
+                ]
+              },
+              {
+                "name": "Data Axel",
+                "access_rules": [
+                  "setting_dataorg"
+                ],
+                "sections": [
+                  {
+                    "chest_unopened_img": "images/axel.png",
+                    "chest_opened_img": "images/keyhole.png",
+                    "item_count": 1
+                  }
+                ],
+                "map_locations": [
+                  {
+                    "map": "SimulatedTT",
+                    "x": 1365,
+                    "y": 235
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
       //Halloween Town
       {
         "name": "Halloween Town",
@@ -35,33 +88,65 @@
           }
         ]
       },
-      //Cavern of Remembrance
+      //Land of Dragons
       {
-        "name": "Cavern Of Remembrance",
+        "name": "Land of Dragons",
         "color": "#18a50e",
         "children": [
           {
-            "name": "STTSpecial",
+            "name": "LODSpecial",
             "color": "#09a09d",
             "children": [
               {
-                "name": "Data Org",
+                "name": "Data Xigbar",
+                "access_rules": [
+                  "setting_absent"
+                ],
+                "sections": [
+                  {
+                    "chest_unopened_img": "images/xigbar.png",
+                    "chest_opened_img": "images/keyhole.png",
+                    "item_count": 1
+                  }
+                ],
+                "map_locations": [
+                  {
+                    "map": "LandOfDragons",
+                    "x": 340,
+                    "y": 127
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      //Beasts Castle
+      {
+        "name": "Beasts Castle",
+        "color": "#18a50e",
+        "children": [
+          {
+            "name": "BCSpecial",
+            "color": "#09a09d",
+            "children": [
+              {
+                "name": "Data Xaldin",
                 "access_rules": [
                   "setting_dataorg"
                 ],
                 "sections": [
                   {
-                    "chest_unopened_img": "images/nobody.png",
+                    "chest_unopened_img": "images/xaldin.png",
                     "chest_opened_img": "images/keyhole.png",
-                    "clear_as_group": false,
-                    "item_count": 13
+                    "item_count": 1
                   }
                 ],
                 "map_locations": [
                   {
-                    "map": "Cavern",
-                    "x": 100,
-                    "y": 552
+                    "map": "BeastsCastle",
+                    "x": 498,
+                    "y": 273
                   }
                 ]
               }
@@ -95,6 +180,26 @@
                     "map": "HollowBastion",
                     "x": 320,
                     "y": 2415
+                  }
+                ]
+              },
+              {
+                "name": "Data Demyx",
+                "access_rules": [
+                  "setting_dataorg"
+                ],
+                "sections": [
+                  {
+                    "chest_unopened_img": "images/demyx.png",
+                    "chest_opened_img": "images/keyhole.png",
+                    "item_count": 1
+                  }
+                ],
+                "map_locations": [
+                  {
+                    "map": "HollowBastion",
+                    "x": 488,
+                    "y": 1070
                   }
                 ]
               }
@@ -231,13 +336,13 @@
             "color": "#09a09d",
             "children": [
               {
-                "name": "Larxene Absent",
+                "name": "Data Luxord",
                 "access_rules": [
-                  "setting_absent"
+                  "setting_dataorg"
                 ],
                 "sections": [
                   {
-                    "chest_unopened_img": "images/larxene.png",
+                    "chest_unopened_img": "images/luxord.png",
                     "chest_opened_img": "images/keyhole.png",
                     "item_count": 1
                   }
@@ -245,8 +350,75 @@
                 "map_locations": [
                   {
                     "map": "PortRoyal",
-                    "x": 585,
-                    "y": 640
+                    "x": 557,
+                    "y": 37
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      //Pride Lands
+      {
+        "name": "Pride Lands",
+        "color": "#18a50e",
+        "children": [
+          {
+            "name": "PLBosses",
+            "color": "#09a09d",
+            "children": [
+              {
+                "name": "Data Saix",
+                "access_rules": [
+                  "setting_dataorg"
+                ],
+                "sections": [
+                  {
+                    "chest_unopened_img": "images/saix.png",
+                    "chest_opened_img": "images/keyhole.png",
+                    "item_count": 1
+                  }
+                ],
+                "map_locations": [
+                  {
+                    "map": "PortRoyal",
+                    "x": 455,
+                    "y": 115
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      //TWTNW
+      {
+        "name": "TWTNW",
+        "color": "#18a50e",
+        "children": [
+          {
+            "name": "TWTNWSBosses",
+            "color": "#09a09d",
+            "children": [
+              {
+                "name": "Data Xemnas",
+                "access_rules": [
+                  "setting_dataorg"
+                ],
+                "sections": [
+                  {
+                    "name": "Talk to Riku",
+                    "chest_unopened_img": "images/xemnas.png",
+                    "chest_opened_img": "images/keyhole.png",
+                    "item_count": 1
+                  }
+                ],
+                "map_locations": [
+                  {
+                    "map": "TWTNWCastle",
+                    "x": 295,
+                    "y": 125
                   }
                 ]
               }
