@@ -244,20 +244,23 @@
     "type": "progressive",
     "stages": [
       {
-        "img": "images/valorform.png",
-        "codes": "valor1"
+        "img": "images/highjump1.png",
+        "codes": "highjump1"
       },
       {
-        "img": "images/valorform.png",
-        "img_mods": "overlay|images/two.png"
+        "img": "images/highjump1.png",
+        "img_mods": "overlay|images/two.png",
+        "codes": "highjump2"
       },
       {
-        "img": "images/valorform.png",
-        "img_mods": "overlay|images/three.png"
+        "img": "images/highjump1.png",
+        "img_mods": "overlay|images/three.png",
+        "codes": "highjump3"
       },
       {
-        "img": "images/valorform.png",
-        "img_mods": "overlay|images/four.png"
+        "img": "images/highjump1.png",
+        "img_mods": "overlay|images/four.png",
+        "codes": "highjump4"
       }
     ]
   },
@@ -266,20 +269,23 @@
     "type": "progressive",
     "stages": [
       {
-        "img": "images/wisdomform.png",
-        "codes": "wisdom1"
+        "img": "images/quickrun1.png",
+        "codes": "quickrun1"
       },
       {
-        "img": "images/wisdomform.png",
-        "img_mods": "overlay|images/two.png"
+        "img": "imagesquickrun1.png",
+        "img_mods": "overlay|images/two.png",
+        "codes": "quickrun2"
       },
       {
-        "img": "images/wisdomform.png",
-        "img_mods": "overlay|images/three.png"
+        "img": "images/quickrun1.png",
+        "img_mods": "overlay|images/three.png",
+        "codes": "quickrun3"
       },
       {
-        "img": "images/wisdomform.png",
-        "img_mods": "overlay|images/four.png"
+        "img": "images/quickrun1.png",
+        "img_mods": "overlay|images/four.png",
+        "codes": "quickrun4"
       }
     ]
   },
@@ -288,20 +294,23 @@
     "type": "progressive",
     "stages": [
       {
-        "img": "images/limitform.png",
-        "codes": "limit1"
+        "img": "images/dodgeroll1.png",
+        "codes": "dodgeroll1"
       },
       {
-        "img": "images/limitform.png",
-        "img_mods": "overlay|images/two.png"
+        "img": "images/dodgeroll1.png",
+        "img_mods": "overlay|images/two.png",
+        "codes": "dodgeroll2"
       },
       {
-        "img": "images/limitform.png",
-        "img_mods": "overlay|images/three.png"
+        "img": "images/dodgeroll1.png",
+        "img_mods": "overlay|images/three.png",
+        "codes": "dodgeroll3"
       },
       {
-        "img": "images/limitform.png",
-        "img_mods": "overlay|images/four.png"
+        "img": "images/dodgeroll1.png",
+        "img_mods": "overlay|images/four.png",
+        "codes": "dodgeroll4"
       }
     ]
   },
@@ -310,20 +319,23 @@
     "type": "progressive",
     "stages": [
       {
-        "img": "images/masterform.png",
-        "codes": "master1"
+        "img": "images/aerialdodge1.png",
+        "codes": "aerialdodge1"
       },
       {
-        "img": "images/masterform.png",
-        "img_mods": "overlay|images/two.png"
+        "img": "images/aerialdodge1.png",
+        "img_mods": "overlay|images/two.png",
+        "codes": "aerialdodge2"
       },
       {
-        "img": "images/masterform.png",
-        "img_mods": "overlay|images/three.png"
+        "img": "images/aerialdodge1.png",
+        "img_mods": "overlay|images/three.png",
+        "codes": "aerialdodge3"
       },
       {
-        "img": "images/masterform.png",
-        "img_mods": "overlay|images/four.png"
+        "img": "images/aerialdodge1.png",
+        "img_mods": "overlay|images/four.png",
+        "codes": "aerialdodge4"
       }
     ]
   },
@@ -332,20 +344,23 @@
     "type": "progressive",
     "stages": [
       {
-        "img": "images/finalform.png",
-        "codes": "final1"
+        "img": "images/glide1.png",
+        "codes": "glide1"
       },
       {
-        "img": "images/finalform.png",
-        "img_mods": "overlay|images/two.png"
+        "img": "images/glide1.png",
+        "img_mods": "overlay|images/two.png",
+        "codes": "glide2"
       },
       {
-        "img": "images/finalform.png",
-        "img_mods": "overlay|images/three.png"
+        "img": "images/glide1.png",
+        "img_mods": "overlay|images/three.png",
+        "codes": "glide3"
       },
       {
-        "img": "images/finalform.png",
-        "img_mods": "overlay|images/four.png"
+        "img": "images/glide1.png",
+        "img_mods": "overlay|images/four.png",
+        "codes": "glide4"
       }
     ]
   }
