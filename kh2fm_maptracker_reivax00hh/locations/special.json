@@ -45,7 +45,7 @@
                 ],
                 "map_locations": [
                   {
-                    "map": "SimulatedTT",
+                    "map": "TwilightTown",
                     "x": 1365,
                     "y": 235
                   }
@@ -382,7 +382,7 @@
                 ],
                 "map_locations": [
                   {
-                    "map": "PortRoyal",
+                    "map": "PrideLands",
                     "x": 455,
                     "y": 115
                   }
