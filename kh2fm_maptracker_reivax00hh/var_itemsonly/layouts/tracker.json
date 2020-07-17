@@ -5,7 +5,7 @@
     "width": 320,
     "content": {
       "type": "layout",
-      "key": "item_grid_wide"
+      "key": "item_grid_tall"
     }
   }
 }

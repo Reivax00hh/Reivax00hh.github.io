@@ -7,56 +7,68 @@
         "type": "itemgrid",
         "h_alignment": "left",
         "item_margin": "1,2",
-	      "item_size": 50,
+        "item_size": 60,
         "rows": [
           [
-	    "roxas",
+            "roxas",
             "twilighttown1",
             "hollowsephi",
-            "spaceparanoids1",
-            "acrewood1",
-	    "landofdragons1"
+            "cave",
+            "spaceparanoids1"
           ],
           [
+            "landofdragons1",
+            "acrewood1",
             "beastscastle1",
             "olympus1",
-            "disneylinger",
-            "timelessriver1",           
-	    "atlantica1",
-            "agrabah1"
+            "disneylinger"
           ],
           [
+            "agrabah1",
             "halloweentown1",
             "portroyal1",
-            "pridelands1",
-            "twtnw1",
-            "autovalor",
-            "wisdomform1"
+            "timelessriver1",
+            "atlantica1"
           ],
           [
-            "limitform1",
-            "masterform1",
-            "finalform1",
+            "pridelands1",
+            "twtnw1",
+            "cup1"
+          ],
+          [
             "fire1",
             "blizzard1",
-            "thunder1"
+            "thunder1",
+            "chickenlittle",
+            "peterpan"
           ],
-	  [
+          [
             "cure1",
             "reflect1",
             "magnet1",
-            "chickenlittle",
             "genie",
             "stitch"
-	  ],
-	  [
-            "peterpan",
-            "cup1",
+          ],
+          [
+            "autovalor",
+            "autowisdom",
+            "autolimit",
+            "automaster",
+            "autofinal"
+          ],
+          [
+            "highjump1",
+            "quickrun1",
+            "dodgeroll1",
+            "aerialdodge1",
+            "glide1"
+          ],
+          [
             "promisecharm",
+            "proofoftranquility",
             "proofofnonexistence",
-            "proofofconnections",
-            "proofoftranquility"
-	  ]
+            "proofofconnections"
+          ]
         ]
       }
     ]

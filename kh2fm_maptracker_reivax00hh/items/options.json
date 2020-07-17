@@ -14,13 +14,13 @@
   {
     "name": "Lingering Will",
     "type": "toggle",
-    "img": "images/lingering.png",
+    "img": "images/lingering_setting.png",
     "codes": "setting_lingering"
   },
   {
     "name": "Sephiroth",
     "type": "toggle",
-    "img": "images/sephiroth.png",
+    "img": "images/sephiroth_setting.png",
     "codes": "setting_sephiroth"
   }
 ]
