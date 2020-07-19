@@ -273,7 +273,7 @@
         "codes": "quickrun1"
       },
       {
-        "img": "imagesquickrun1.png",
+        "img": "images/quickrun1.png",
         "img_mods": "overlay|images/two.png",
         "codes": "quickrun2"
       },
