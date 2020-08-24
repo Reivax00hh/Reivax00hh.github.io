@@ -29,20 +29,77 @@
   },
   {
     "name": "Proof of Nonexistence",
-    "type": "toggle",
-    "img": "images/non-existentproof.png",
-    "codes": "proofofnonexistence"
+    "type": "progressive",
+    "stages":[
+      {
+        "img": "images/non-existentproof.png",
+        "codes": "proofofnonexistence"
+      },
+      {
+        "img": "images/non-existentproof.png",
+        "img_mods": "overlay|images/bronze.png",
+        "codes": "proofofnonexistence1"
+      },
+      {
+        "img": "images/non-existentproof.png",
+        "img_mods": "overlay|images/silver.png",
+        "codes": "proofofnonexistence2"
+      },
+      {
+        "img": "images/non-existentproof.png",
+        "img_mods": "overlay|images/gold.png",
+        "codes": "proofofnonexistence3"
+      }
+    ]
   },
   {
     "name": "Proof of Connections",
-    "type": "toggle",
-    "img": "images/proofofconnections.png",
-    "codes": "proofofconnections"
+    "type": "progressive",
+    "stages":[
+      {
+        "img": "images/proofofconnections.png",
+        "codes": "proofofconnections"
+      },
+      {
+        "img": "images/proofofconnections.png",
+        "img_mods": "overlay|images/bronze.png",
+        "codes": "proofofconnections1"
+      },
+      {
+        "img": "images/proofofconnections.png",
+        "img_mods": "overlay|images/silver.png",
+        "codes": "proofofconnections2"
+      },
+      {
+        "img": "images/proofofconnections.png",
+        "img_mods": "overlay|images/gold.png",
+        "codes": "proofofconnections3"
+      }
+    ]
   },
   {
     "name": "Proof of Tranquility",
-    "type": "toggle",
-    "img": "images/tranquilproof.png",
-    "codes": "proofoftranquility"
+    "type": "progressive",
+    "stages":[
+      {
+        "img": "images/tranquilproof.png",
+        "codes": "proofoftranquility"
+      },
+      {
+        "img": "images/tranquilproof.png",
+        "img_mods": "overlay|images/bronze.png",
+        "codes": "proofoftranquility1"
+      },
+      {
+        "img": "images/tranquilproof.png",
+        "img_mods": "overlay|images/silver.png",
+        "codes": "proofoftranquility2"
+      },
+      {
+        "img": "images/tranquilproof.png",
+        "img_mods": "overlay|images/gold.png",
+        "codes": "proofoftranquility3"
+      }
+    ]
   }
 ]

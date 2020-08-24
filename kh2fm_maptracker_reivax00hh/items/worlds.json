@@ -3,11 +3,19 @@
     "name": "Simulated Twilight Town",
     "type": "toggle",
     "img": "images/roxasworld.png",
+    "codes": "roxas1"
+  },
+  {
+    "name": "Simulated roxas",
+    "type": "toggle_badged",
+    "base_item": "roxas1",
+    "img": "images/roxas_overlay.png",
     "codes": "roxas"
   },
   {
     "name": "Twilight Town",
     "type": "progressive",
+    "loop": true,
     "stages": [
       {
         "img": "images/twilighttown.png",
@@ -21,9 +29,16 @@
       {
         "img": "images/twilighttown.png",
         "img_mods": "overlay|images/three.png",
-		"codes": "twilighttown3"
+		    "codes": "twilighttown3"
       }
     ]
+  },
+  {
+    "name": "Twilight Axel",
+    "type": "toggle_badged",
+    "base_item": "twilighttown1",
+    "img": "images/axel_overlay.png",
+    "codes": "twilighttown"
   },
   {
     "name": "Hollow Bastion",
@@ -112,6 +127,7 @@
   {
     "name": "The Land Of Dragons",
     "type": "progressive",
+    "loop": true,
     "stages": [
       {
         "img": "images/landofdragons.png",
@@ -125,8 +141,16 @@
     ]
   },
   {
+    "name": "Land Xigbar",
+    "type": "toggle_badged",
+    "base_item": "landofdragons1",
+    "img": "images/xigbar_overlay.png",
+    "codes": "landofdragons"
+  },
+  {
     "name": "Beast's Castle",
     "type": "progressive",
+    "loop": true,
     "stages": [
       {
         "img": "images/beastscastle.png",
@@ -140,8 +164,16 @@
     ]
   },
   {
+    "name": "Beast Xald",
+    "type": "toggle_badged",
+    "base_item": "beastscastle1",
+    "img": "images/xaldin_overlay.png",
+    "codes": "beastscastle"
+  },
+  {
     "name": "Olympus Coliseum",
     "type": "progressive",
+    "loop": true,
     "stages": [
       {
         "img": "images/olympus.png",
@@ -155,11 +187,27 @@
     ]
   },
   {
+    "name": "Olympus Zex",
+    "type": "toggle_badged",
+    "base_item": "olympus1",
+    "img": "images/zexion_overlay.png",
+    "codes": "olympus"
+  },
+  {
     "name": "Disney Castle",
-    "type": "toggle",
+    "type": "progressive",
     "loop": true,
-    "img": "images/disneycastle.png",
-    "codes": "disneycastle1"
+    "stages": [
+      {
+      "img": "images/disneycastle.png",
+      "codes": "disneycastle1"
+      },
+      {
+        "img": "images/disneycastle.png",
+        "img_mods": "overlay|images/marxluxia_overlay.png",
+        "codes": "disneycastle2"
+      }
+    ]
   },
   {
     "name": "Disney Castle w/ lingering",
@@ -177,6 +225,7 @@
   {
     "name": "Atlantica",
     "type": "progressive",
+    "loop": true,
     "stages": [
       {
         "img": "images/atlantica.png",
@@ -205,8 +254,16 @@
     ]
   },
   {
+    "name": "Atlantica Larx",
+    "type": "toggle_badged",
+    "base_item": "atlantica1",
+    "img": "images/larxene_overlay.png",
+    "codes": "atlantica"
+  },
+  {
     "name": "Agrabah",
     "type": "progressive",
+    "loop": true,
     "stages": [
       {
         "img": "images/agrabah.png",
@@ -220,8 +277,16 @@
     ]
   },
   {
+    "name": "Agrabah Lex",
+    "type": "toggle_badged",
+    "base_item": "agrabah1",
+    "img": "images/lexaeus_overlay.png",
+    "codes": "agrabah"
+  },
+  {
     "name": "Halloween Town",
     "type": "progressive",
+    "loop": true,
     "stages": [
       {
         "img": "images/halloweentown.png",
@@ -235,8 +300,16 @@
     ]
   },
   {
+    "name": "Halloween Vex",
+    "type": "toggle_badged",
+    "base_item": "halloweentown1",
+    "img": "images/vexen_overlay.png",
+    "codes": "halloweentown"
+  },
+  {
     "name": "Port Royal",
     "type": "progressive",
+    "loop": true,
     "stages": [
       {
         "img": "images/portroyal.png",
@@ -245,13 +318,21 @@
       {
         "img": "images/portroyal.png",
         "img_mods": "overlay|images/two.png",
-        "codes": "portroyal"
+        "codes": "portroyal2"
       }
     ]
   },
   {
+    "name": "Port Lux",
+    "type": "toggle_badged",
+    "base_item": "portroyal1",
+    "img": "images/luxord_overlay.png",
+    "codes": "portroyal"
+  },
+  {
     "name": "Pride Lands",
     "type": "progressive",
+    "loop": true,
     "stages": [
       {
         "img": "images/pridelands.png",
@@ -265,9 +346,23 @@
     ]
   },
   {
+    "name": "Pride Saix",
+    "type": "toggle_badged",
+    "base_item": "pridelands1",
+    "img": "images/saix_overlay.png",
+    "codes": "pridelands"
+  },
+  {
     "name": "The World That Never Was",
     "type": "toggle",
     "img": "images/twtnw.png",
     "codes": "twtnw1"
+  },
+  {
+    "name": "twtnw xem",
+    "type": "toggle_badged",
+    "base_item": "twtnw1",
+    "img": "images/xemnas_overlay.png",
+    "codes": "twtnw"
   }
 ]

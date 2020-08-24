@@ -7,32 +7,32 @@
         "type": "itemgrid",
         "h_alignment": "left",
         "item_margin": "1,2",
-        "item_size": 70,
+        "item_size": 75,
         "rows": [
           [
             "roxas",
-            "twilighttown1",
+            "twilighttown",
             "hollowsephi",
             "cave",
             "spaceparanoids1"
           ],
           [
-            "landofdragons1",
+            "landofdragons",
             "acrewood1",
-            "beastscastle1",
-            "olympus1",
+            "beastscastle",
+            "olympus",
             "disneylinger"
           ],
           [
-            "agrabah1",
-            "halloweentown1",
-            "portroyal1",
+            "agrabah",
+            "halloweentown",
+            "portroyal",
             "timelessriver1",
-            "atlantica1"
+            "atlantica"
           ],
           [
-            "pridelands1",
-            "twtnw1",
+            "pridelands",
+            "twtnw",
             "cup1"
           ],
           [
@@ -81,30 +81,30 @@
         "type": "itemgrid",
         "h_alignment": "left",
         "item_margin": "1,2",
-	"item_size": 60,
+	"item_size": 75,
         "rows": [
           [
             "roxas",
-            "twilighttown1",
+            "twilighttown",
             "hollowsephi",
             "cave",
             "spaceparanoids1",
             "acrewood1"
           ],
           [
-            "landofdragons1",
-            "beastscastle1",
-            "olympus1",
+            "landofdragons",
+            "beastscastle",
+            "olympus",
             "disneylinger",
             "timelessriver1",
-            "atlantica1"
+            "atlantica"
           ],
           [
-            "agrabah1",
-            "halloweentown1",
-            "portroyal1",
-            "pridelands1",
-            "twtnw1",
+            "agrabah",
+            "halloweentown",
+            "portroyal",
+            "pridelands",
+            "twtnw",
             "cup1"
           ],
           [
