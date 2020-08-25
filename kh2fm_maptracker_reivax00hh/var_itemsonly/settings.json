@@ -1,4 +1,4 @@
 {
   "disabled_image_filter": "brightness|0.35",
-  "allow_resize": true
+  "allow_resize": false
 }
