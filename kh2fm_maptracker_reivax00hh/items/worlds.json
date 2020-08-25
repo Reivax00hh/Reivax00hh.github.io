@@ -77,10 +77,11 @@
   {
     "name": "Space Paranoids",
     "type": "progressive",
+    "loop": true,
     "stages": [
       {
         "img": "images/spaceparanoids.png",
-        "codes": "spaceparanoids1"
+        "codes": "spaceparanoids"
       },
       {
         "img": "images/spaceparanoids.png",
@@ -88,6 +89,13 @@
         "codes": "spaceparanoids2"
       }
     ]
+  },
+  {
+    "name": "Space Larx",
+    "type": "toggle_badged",
+    "base_item": "spaceparanoids",
+    "img": "images/larxene_overlay.png",
+    "codes": "spaceparanoids1"
   },
   {
     "name": "100 Acre Wood",
@@ -229,7 +237,7 @@
     "stages": [
       {
         "img": "images/atlantica.png",
-        "codes": "atlantica1"
+        "codes": "atlantica"
       },
       {
         "img": "images/atlantica.png",
@@ -252,13 +260,6 @@
         "codes": "atlantica5"
       }
     ]
-  },
-  {
-    "name": "Atlantica Larx",
-    "type": "toggle_badged",
-    "base_item": "atlantica1",
-    "img": "images/larxene_overlay.png",
-    "codes": "atlantica"
   },
   {
     "name": "Agrabah",
@@ -354,9 +355,14 @@
   },
   {
     "name": "The World That Never Was",
-    "type": "toggle",
-    "img": "images/twtnw.png",
-    "codes": "twtnw1"
+    "type": "progressive",
+    "loop": true,
+    "stages":[
+      {
+        "img": "images/twtnw.png",
+        "codes": "twtnw1"
+      }
+    ]
   },
   {
     "name": "twtnw xem",
