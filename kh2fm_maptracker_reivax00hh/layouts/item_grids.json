@@ -10,32 +10,6 @@
         "item_size": 75,
         "rows": [
           [
-            "roxas",
-            "twilighttown",
-            "hollowsephi",
-            "cave",
-            "spaceparanoids1"
-          ],
-          [
-            "landofdragons",
-            "acrewood1",
-            "beastscastle",
-            "olympus",
-            "disneylinger"
-          ],
-          [
-            "agrabah",
-            "halloweentown",
-            "portroyal",
-            "timelessriver1",
-            "atlantica"
-          ],
-          [
-            "pridelands",
-            "twtnw",
-            "cup1"
-          ],
-          [
             "fire1",
             "blizzard1",
             "thunder1",
@@ -62,6 +36,13 @@
             "dodgeroll1",
             "aerialdodge1",
             "glide1"
+          ],
+          [
+            "sora",
+            "secondchance",
+            "oncemore",
+            "tornpages",
+            "secretreports"
           ],
           [
             "promisecharm",
@@ -138,6 +119,13 @@
             "peterpan",
             "promisecharm",
             "proofoftranquility"
+          ],
+          [
+            "sora",
+            "oncemore",
+            "secondchance",
+            "tornpages",
+            "secretreports"
           ]
         ]
       }

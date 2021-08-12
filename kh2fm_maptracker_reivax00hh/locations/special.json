@@ -88,6 +88,39 @@
           }
         ]
       },
+      //Space Paranoids
+      {
+        "name": "Space Paranoids",
+        "color": "#18a50e",
+        "children": [
+          {
+            "name": "SPSpecial",
+            "color": "#09a09d",
+            "children": [
+              {
+                "name": "Larxene Absent",
+                "access_rules": [
+                  "setting_absent"
+                ],
+                "sections": [
+                  {
+                    "chest_unopened_img": "images/larxene.png",
+                    "chest_opened_img": "images/keyhole.png",
+                    "item_count": 1
+                  }
+                ],
+                "map_locations": [
+                  {
+                    "map": "SpaceParanoids",
+                    "x": 125,
+                    "y": 165
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
       //Land of Dragons
       {
         "name": "Land of Dragons",
