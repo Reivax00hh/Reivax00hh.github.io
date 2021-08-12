@@ -101,5 +101,175 @@
         "codes": "proofoftranquility3"
       }
     ]
+  },
+  {
+    "name": "Once More",
+    "type": "toggle",
+    "img": "images/once_more.png",
+    "codes": "oncemore"
+  },
+  {
+    "name": "Second Chance",
+    "type": "toggle",
+    "img": "images/second_chance.png",
+    "codes": "secondchance"
+  },
+  {
+    "name": "Secret Reports",
+    "type": "progressive",
+    "stages":[
+      {
+        "img": "images/secret_reports.png",
+        "codes": "secretreports"
+      },
+      {
+        "img": "images/secret_reports.png",
+        "img_mods": "overlay|images/one.png"
+      },
+      {
+        "img": "images/secret_reports.png",
+        "img_mods": "overlay|images/two.png"
+      },
+      {
+        "img": "images/secret_reports.png",
+        "img_mods": "overlay|images/three.png"
+      },
+      {
+        "img": "images/secret_reports.png",
+        "img_mods": "overlay|images/four.png"
+      },
+      {
+        "img": "images/secret_reports.png",
+        "img_mods": "overlay|images/five.png"
+      },
+      {
+        "img": "images/secret_reports.png",
+        "img_mods": "overlay|images/six.png"
+      },
+      {
+        "img": "images/secret_reports.png",
+        "img_mods": "overlay|images/seven.png"
+      },
+      {
+        "img": "images/secret_reports.png",
+        "img_mods": "overlay|images/eight.png"
+      },
+      {
+        "img": "images/secret_reports.png",
+        "img_mods": "overlay|images/nine.png"
+      },
+      {
+        "img": "images/secret_reports.png",
+        "img_mods": "overlay|images/ten.png"
+      },
+      {
+        "img": "images/secret_reports.png",
+        "img_mods": "overlay|images/11.png"
+      },
+      {
+        "img": "images/secret_reports.png",
+        "img_mods": "overlay|images/12.png"
+      },
+      {
+        "img": "images/secret_reports.png",
+        "img_mods": "overlay|images/13.png"
+      }
+    ]
+  },
+  {
+    "name": "Soras Level",
+    "type": "progressive",
+    "stages":[
+      {
+        "img": "images/sora.png",
+        "codes": "secretreports"
+      },
+      {
+        "img": "images/sora.png",
+        "img_mods": "overlay|images/five.png"
+      },
+      {
+        "img": "images/sora.png",
+        "img_mods": "overlay|images/15.png"
+      },
+      {
+        "img": "images/sora.png",
+        "img_mods": "overlay|images/20.png"
+      },
+      {
+        "img": "images/sora.png",
+        "img_mods": "overlay|images/25.png"
+      },
+      {
+        "img": "images/sora.png",
+        "img_mods": "overlay|images/30.png"
+      },
+      {
+        "img": "images/sora.png",
+        "img_mods": "overlay|images/35.png"
+      },
+      {
+        "img": "images/sora.png",
+        "img_mods": "overlay|images/40.png"
+      },
+      {
+        "img": "images/sora.png",
+        "img_mods": "overlay|images/45.png"
+      },
+      {
+        "img": "images/sora.png",
+        "img_mods": "overlay|images/50.png"
+      },
+      {
+        "img": "images/sora.png",
+        "img_mods": "overlay|images/60.png"
+      },
+      {
+        "img": "images/sora.png",
+        "img_mods": "overlay|images/70.png"
+      },
+      {
+        "img": "images/sora.png",
+        "img_mods": "overlay|images/80.png"
+      },
+      {
+        "img": "images/sora.png",
+        "img_mods": "overlay|images/90.png"
+      },
+      {
+        "img": "images/sora.png",
+        "img_mods": "overlay|images/99.png"
+      }
+    ]
+  },
+  {
+    "name": "Torn Pages",
+    "type": "progressive",
+    "stages":[
+      {
+        "img": "images/torn_pages.png",
+        "codes": "tornpages"
+      },
+      {
+        "img": "images/torn_pages.png",
+        "img_mods": "overlay|images/one.png"
+      },
+      {
+        "img": "images/torn_pages.png",
+        "img_mods": "overlay|images/two.png"
+      },
+      {
+        "img": "images/torn_pages.png",
+        "img_mods": "overlay|images/three.png"
+      },
+      {
+        "img": "images/torn_pages.png",
+        "img_mods": "overlay|images/four.png"
+      },
+      {
+        "img": "images/torn_pages.png",
+        "img_mods": "overlay|images/five.png"
+      }
+    ]
   }
 ]

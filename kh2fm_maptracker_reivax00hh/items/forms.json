@@ -35,7 +35,7 @@
       },
       {
         "img": "images/valor.png",
-        "img_mods": "overlay|images/seven.png",
+        "img_mods": "overlay|images/max.png",
         "codes": "valorform7"
       }
     ]
@@ -83,7 +83,7 @@
       },
       {
         "img": "images/wisdom.png",
-        "img_mods": "overlay|images/seven.png",
+        "img_mods": "overlay|images/max.png",
         "inherit_codes": true
       }
     ]
@@ -131,7 +131,7 @@
       },
       {
         "img": "images/limit.png",
-        "img_mods": "overlay|images/seven.png",
+        "img_mods": "overlay|images/max.png",
         "inherit_codes": true
       }
     ]
@@ -179,7 +179,7 @@
       },
       {
         "img": "images/master.png",
-        "img_mods": "overlay|images/seven.png",
+        "img_mods": "overlay|images/max.png",
         "inherit_codes": true
       }
     ]
@@ -227,7 +227,7 @@
       },
       {
         "img": "images/final.png",
-        "img_mods": "overlay|images/seven.png",
+        "img_mods": "overlay|images/max.png",
         "inherit_codes": true
       }
     ]
@@ -259,7 +259,7 @@
       },
       {
         "img": "images/highjump1.png",
-        "img_mods": "overlay|images/four.png",
+        "img_mods": "overlay|images/max.png",
         "codes": "highjump4"
       }
     ]
@@ -284,7 +284,7 @@
       },
       {
         "img": "images/quickrun1.png",
-        "img_mods": "overlay|images/four.png",
+        "img_mods": "overlay|images/max.png",
         "codes": "quickrun4"
       }
     ]
@@ -309,7 +309,7 @@
       },
       {
         "img": "images/dodgeroll1.png",
-        "img_mods": "overlay|images/four.png",
+        "img_mods": "overlay|images/max.png",
         "codes": "dodgeroll4"
       }
     ]
@@ -334,7 +334,7 @@
       },
       {
         "img": "images/aerialdodge1.png",
-        "img_mods": "overlay|images/four.png",
+        "img_mods": "overlay|images/max.png",
         "codes": "aerialdodge4"
       }
     ]
@@ -359,7 +359,7 @@
       },
       {
         "img": "images/glide1.png",
-        "img_mods": "overlay|images/four.png",
+        "img_mods": "overlay|images/max.png",
         "codes": "glide4"
       }
     ]

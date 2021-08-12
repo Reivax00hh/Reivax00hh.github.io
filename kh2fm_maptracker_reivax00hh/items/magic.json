@@ -13,7 +13,7 @@
       },
       {
         "img": "images/fire.png",
-        "img_mods": "overlay|images/three.png"
+        "img_mods": "overlay|images/max.png"
       }
     ]
   },
@@ -31,7 +31,7 @@
       },
       {
         "img": "images/blizzard.png",
-        "img_mods": "overlay|images/three.png"
+        "img_mods": "overlay|images/max.png"
       }
     ]
   },
@@ -49,7 +49,7 @@
       },
       {
         "img": "images/thunder.png",
-        "img_mods": "overlay|images/three.png"
+        "img_mods": "overlay|images/max.png"
       }
     ]
   },
@@ -67,7 +67,7 @@
       },
       {
         "img": "images/cure.png",
-        "img_mods": "overlay|images/three.png"
+        "img_mods": "overlay|images/max.png"
       }
     ]
   },
@@ -85,7 +85,7 @@
       },
       {
         "img": "images/reflect.png",
-        "img_mods": "overlay|images/three.png"
+        "img_mods": "overlay|images/max.png"
       }
     ]
   },
@@ -103,7 +103,7 @@
       },
       {
         "img": "images/magnet.png",
-        "img_mods": "overlay|images/three.png"
+        "img_mods": "overlay|images/max.png"
       }
     ]
   }

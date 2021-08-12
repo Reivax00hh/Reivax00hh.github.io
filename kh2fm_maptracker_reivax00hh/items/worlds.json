@@ -19,17 +19,16 @@
     "stages": [
       {
         "img": "images/twilighttown.png",
-        "img_mods": "overlay|images/progression/tower.png",
         "codes": "twilighttown1"
       },
       {
         "img": "images/twilighttown.png",
-        "img_mods": "overlay|images/progression/twil2.png",
+        "img_mods": "overlay|images/two.png",
         "codes": "twilighttown2"
       },
       {
         "img": "images/twilighttown.png",
-        "img_mods": "overlay|images/progression/finalTwi.png",
+        "img_mods": "overlay|images/three.png",
 		    "codes": "twilighttown3"
       }
     ]
@@ -48,17 +47,16 @@
     "stages": [
       {
         "img": "images/hollowbastion.png",
-        "img_mods": "overlay|images/progression/bailey.png",
         "codes": "hollowbastion1"
       },
       {
         "img": "images/hollowbastion.png",
-        "img_mods": "overlay|images/progression/hollow2.png",
+        "img_mods": "overlay|images/two.png",
         "codes": "hollowbastion2"
       },
       {
         "img": "images/hollowbastion.png",
-        "img_mods": "overlay|images/progression/1000.png",
+        "img_mods": "overlay|images/three.png",
         "codes": "hollowbastion3"
       }
     ]
@@ -83,12 +81,11 @@
     "stages": [
       {
         "img": "images/spaceparanoids.png",
-        "img_mods": "overlay|images/progression/hostileprogram.png",
         "codes": "spaceparanoids"
       },
       {
         "img": "images/spaceparanoids.png",
-        "img_mods": "overlay|images/progression/mcp.png",
+        "img_mods": "overlay|images/two.png",
         "codes": "spaceparanoids2"
       }
     ]
@@ -142,12 +139,11 @@
     "stages": [
       {
         "img": "images/landofdragons.png",
-        "img_mods": "overlay|images/progression/shanyu.png",
         "codes": "landofdragons1"
       },
       {
         "img": "images/landofdragons.png",
-        "img_mods": "overlay|images/progression/stormrider.png",
+        "img_mods": "overlay|images/two.png",
         "codes": "landofdragons2"
       }
     ]
@@ -166,12 +162,11 @@
     "stages": [
       {
         "img": "images/beastscastle.png",
-        "img_mods": "overlay|images/progression/darkthorn.png",
         "codes": "beastscastle1"
       },
       {
         "img": "images/beastscastle.png",
-        "img_mods": "overlay|images/progression/xaldinstory.png",
+        "img_mods": "overlay|images/two.png",
         "codes": "beastscastle2"
       }
     ]
@@ -190,12 +185,11 @@
     "stages": [
       {
         "img": "images/olympus.png",
-        "img_mods": "overlay|images/progression/hydra.png",
         "codes": "olympus1"
       },
       {
         "img": "images/olympus.png",
-        "img_mods": "overlay|images/progression/hades.png",
+        "img_mods": "overlay|images/two.png",
         "codes": "olympus2"
       }
     ]
@@ -214,7 +208,6 @@
     "stages": [
       {
       "img": "images/disneycastle.png",
-      "img_mods": "overlay|images/progression/minnie.png",
       "codes": "disneycastle1"
       },
       {
@@ -235,7 +228,6 @@
     "name": "Timeless River",
     "type": "toggle",
     "img": "images/timelessriver.png",
-    "img_mods": "overlay|images/progression/pete.png",
     "codes": "timelessriver1"
   },
   {
@@ -276,12 +268,11 @@
     "stages": [
       {
         "img": "images/agrabah.png",
-        "img_mods": "overlay|images/progression/twinlords.png",
         "codes": "agrabah1"
       },
       {
         "img": "images/agrabah.png",
-        "img_mods": "overlay|images/progression/jafar.png",
+        "img_mods": "overlay|images/two.png",
         "codes": "agrabah2"
       }
     ]
@@ -300,12 +291,11 @@
     "stages": [
       {
         "img": "images/halloweentown.png",
-        "img_mods": "overlay|images/progression/oogie.png",
         "codes": "halloweentown1"
       },
       {
         "img": "images/halloweentown.png",
-        "img_mods": "overlay|images/progression/experiment.png",
+        "img_mods": "overlay|images/two.png",
         "codes": "halloweentown2"
       }
     ]
@@ -324,12 +314,11 @@
     "stages": [
       {
         "img": "images/portroyal.png",
-        "img_mods": "overlay|images/progression/barbossa.png",
         "codes": "portroyal1"
       },
       {
         "img": "images/portroyal.png",
-        "img_mods": "overlay|images/progression/grimreaper.png",
+        "img_mods": "overlay|images/two.png",
         "codes": "portroyal2"
       }
     ]
@@ -348,12 +337,11 @@
     "stages": [
       {
         "img": "images/pridelands.png",
-        "img_mods": "overlay|images/progression/scar.png",
         "codes": "pridelands1"
       },
       {
         "img": "images/pridelands.png",
-        "img_mods": "overlay|images/progression/groundshaker.png",
+        "img_mods": "overlay|images/two.png",
         "codes": "pridelands2"
       }
     ]
@@ -372,7 +360,6 @@
     "stages":[
       {
         "img": "images/twtnw.png",
-        "img_mods": "overlay|images/progression/finalTwtnw.png",
         "codes": "twtnw1"
       }
     ]
